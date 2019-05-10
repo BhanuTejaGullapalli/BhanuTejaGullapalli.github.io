@@ -1,16 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Jfoac8IAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<b>On-body Sensing of Cocaine Craving, Euphoria and Drug-Seeking Behavior using Cardiac and Respiratory Signals</b> <br> <b>Bhanu Teja GUllapalli</b>,Annamalai Natarajan, Gustavo A. Angarita, Robert T. Malison, Deepak Ganesan, Tauhidur Rahman. <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) (UbiComp '19).</i> 
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>A New Hierarchical Clustering Algorithm to Identify Non-overlapping Like-minded Communities</b> 	Talasila Sai Deepak, Hindol Adhya, Shyamal Kejriwal, <br> <b>Bhanu Teja GUllapalli</b>, Saswata Shannigrahi. <i>Proceedings of the 27th ACM Conference on Hypertext and Social Media. ACM, 2016</i> 
