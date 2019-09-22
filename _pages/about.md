@@ -11,4 +11,4 @@ Hi, I'm Bhanu Teja Gullapalli; thanks for visiting my website. I'm a first-year 
 
 As a member of [Mosaic Lab](http://mosaic.cs.umass.edu/), I focus on machine learning and ubiquitous technologies in the medical domain.  
 
-Previously, I joined University of Massachusetts Amherst as Master's student in 2017 and moved to MS/Ph.D track in 2019. I did my undergrad at the Indian Institute of Technology -Guwahati (IITG) where I worked under [Samit Bhattacharya](http://www.iitg.ac.in/samit/) and [Benny George](https://www.iitg.ac.in/ben/). You can check my [CV here](https://bhanutejagullapalli.github.io/files/CV.pdf).
+Previously, I joined University of Massachusetts Amherst as Master's student in 2017 and moved to MS/Ph.D track in 2019. I did my undergrad at the Indian Institute of Technology -Guwahati (IITG) where I worked under [Samit Bhattacharya](http://www.iitg.ac.in/samit/) and [Benny George](https://www.iitg.ac.in/ben/). 
