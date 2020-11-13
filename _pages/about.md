@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, I'm Bhanu Teja Gullapalli; thanks for visiting my website. I am a <del>first</del> second-year Ph.D. student in Computer Science at the University of Massachusetts Amherst advised by   [Tauhidur Rahman](http://www.tauhidurrahman.com/).
+Hi, I'm Bhanu Teja Gullapalli; thanks for visiting my website. I am a <del>second</del> third-year Ph.D. student in Computer Science at the University of Massachusetts Amherst advised by   [Tauhidur Rahman](http://www.tauhidurrahman.com/).
 
 As a member of [Mosaic Lab](http://mosaic.cs.umass.edu/), I focus on machine learning and ubiquitous technologies in the medical domain.  
 
