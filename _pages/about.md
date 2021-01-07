@@ -18,7 +18,7 @@ Previously, I joined the University of Massachusetts Amherst as a Master's stude
 
 News
 ------
-
+* **Jan 2021**: I’ll be returning as the TA for CS528 (Mobile and Ubiquitous Computing) this Spring.
 * **Sept 2019**: Presented our paper "On-body Sensing of Cocaine Craving, Euphoria and Drug-Seeking Behavior Using Cardiac and Respiratory Signals" at Ubicomp 2019, London.
 * **Feb 2019**: Our paper "On-body Sensing of Cocaine Craving, Euphoria and Drug-Seeking Behavior Using Cardiac and Respiratory Signals" got accepted in **Ubicomp 2019**!
 * **Sept 2018**: started my PhD in Computer Science at UMass Amherst.
