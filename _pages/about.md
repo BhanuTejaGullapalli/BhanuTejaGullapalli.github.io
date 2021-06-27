@@ -18,7 +18,7 @@ Previously, I joined the University of Massachusetts Amherst as a Master's stude
 
 News
 ------
-* **June 2021**: Organized  [Future of Digital Biomarkers](https://digitalbiomarkers.github.io/) workshop with [Tauhidur Rahman](https://www.tauhidurrahman.com/) and [Michael Sobolev](https://www.michaelsobolev.com/).
+* **June 2021**: Organized  **MobiSys 2021 workshop**-[Future of Digital Biomarkers](https://digitalbiomarkers.github.io/) with [Tauhidur Rahman](https://www.tauhidurrahman.com/) and [Michael Sobolev](https://www.michaelsobolev.com/).
 * **May 2021**: Our paper "Joint Prediction of Cocaine Craving and Euphoria using Structured Prediction Energy Networks" got accepted in **MobiSys 2021 workshop**  [Future of Digital Biomarkers](https://digitalbiomarkers.github.io/)!
 * **Jan 2021**: I’ll be returning as the TA for CS528 (Mobile and Ubiquitous Computing) this Spring.
 * **Sept 2019**: Presented our paper "On-body Sensing of Cocaine Craving, Euphoria and Drug-Seeking Behavior Using Cardiac and Respiratory Signals" at Ubicomp 2019, London.
