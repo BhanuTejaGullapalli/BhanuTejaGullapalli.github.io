@@ -40,6 +40,7 @@ Here on this page, I will post some pics from each trail and maybe say something
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
@@ -139,27 +140,81 @@ img {vertical-align: middle;}
   .prev, .next,.text {font-size: 11px}
 }
 </style>
+
 </head>
 <body>
-
+<h3>Buffam Falls White trail</h3>
 <div class="slideshow-container">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="{{ site.url }}/assets/hiking/img_nature_wide.jpg" style="width:100%">
-  <div class="text">Caption Text</div>
+  <img src="{{ site.url }}/assets/hiking/PXL_20210703_154230508.jpg" style="width:100%">
+  
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="{{ site.url }}/assets/hiking/img_snow_wide.jpg" style="width:100%">
-  <div class="text">Caption Two</div>
+  <img src="{{ site.url }}/assets/hiking/PXL_20210703_154257849.MP.jpg" style="width:100%">
+  
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="{{ site.url }}/assets/hiking/img_mountains_wide.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <img src="{{ site.url }}/assets/hiking/PXL_20210703_154527196.jpg" style="width:100%">
+  
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="{{ site.url }}/assets/hiking/PXL_20210703_154711204.jpg" style="width:100%">
+  
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="{{ site.url }}/assets/hiking/PXL_20210703_154811626.jpg" style="width:100%">
+  
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="{{ site.url }}/assets/hiking/PXL_20210703_155242865.jpg" style="width:100%">
+  
+</div>
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="{{ site.url }}/assets/hiking/PXL_20210703_161644318.jpg" style="width:100%">
+  
+</div>
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="{{ site.url }}/assets/hiking/PXL_20210703_161648365.jpg" style="width:100%">
+  
+</div>
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="{{ site.url }}/assets/hiking/PXL_20210703_162813633.jpg" style="width:100%">
+  
+</div>
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="{{ site.url }}/assets/hiking/PXL_20210703_165106057.jpg" style="width:100%">
+  
+</div>
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="{{ site.url }}/assets/hiking/PXL_20210703_165249533.jpg" style="width:100%">
+  
+</div>
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="{{ site.url }}/assets/hiking/PXL_20210703_170629729.jpg" style="width:100%">
+  
+</div>
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="{{ site.url }}/assets/hiking/PXL_20210703_171639557.jpg" style="width:100%">
+  
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
