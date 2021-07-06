@@ -21,7 +21,29 @@ I started hiking recently (June'21) by using it as a reason to get outside the h
   </div>
 </div> -->
 
-<label for="file">Downloading progress:</label>
-<progress id="file" value="32" max="100"> 32% </progress>
+<style>
+#myProgress {
+  width: 100%;
+  background-color: #ddd;
+}
+
+#myBar {
+  width: 10%;
+  height: 30px;
+  background-color: #04AA6D;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+</style>
+<body>
+
+<h1>JavaScript Progress Bar</h1>
+
+<div id="myProgress">
+  <div id="myBar">10%</div>
+</div>
+
+</body>
 
 Here on this page, I will post some pics from each trail and maybe say something about them if I find the need. To see the original resolution picture, right-click and open the image in a new tab, or download the image.
