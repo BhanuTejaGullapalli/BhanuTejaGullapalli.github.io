@@ -38,10 +38,10 @@ I started hiking recently (June'21) by using it as a reason to get outside the h
 </style>
 <body>
 
-<h1>JavaScript Progress Bar</h1>
+<h3>Hiking goal</h3>
 
 <div id="myProgress">
-  <div id="myBar">10%</div>
+  <div id="myBar">10% (3/30)</div>
 </div>
 
 </body>
