@@ -8,11 +8,11 @@ author_profile: true
 
 I started hiking recently (June'21) by using it as a reason to get outside the house, and I currently love this hobby. I made a goal of completing 30 new trails by the end of summer. You can find my progress below,
 
-<head>
+<!-- <head>
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 
-</head>
+</head> -->
 
 <div class="progress">
   <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="10"
