@@ -60,7 +60,7 @@ img {vertical-align: middle;}
   position: absolute;
   top: 50%;
   width: auto;
-  padding: 36px;
+  padding: 15px;
   margin-top: -22px;
   color: white;
   font-weight: bold;
@@ -148,72 +148,72 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 13</div>
-  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_154230508.jpg" height="640" width="480"  >
+  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_154230508_resize.jpg"   >
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 13</div>
-  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_154257849.MP.jpg" height="640" width="480"  >
+  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_154257849_resize.jpg"  >
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 13</div>
-  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_154527196.jpg" height="640" width="480" >
+  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_154527196_resize.jpg"  >
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 13</div>
-  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_154711204.jpg" height="640" width="480"  >
+  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_154711204_resize.jpg"  >
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 13</div>
-  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_154811626.jpg" height="640" width="480" >
+  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_154811626_resize.jpg">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">6 / 13</div>
-  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_155242865.jpg" height="640" width="480">
+  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_155242865_resize.jpg" >
   
 </div>
 <div class="mySlides fade">
   <div class="numbertext">7 / 3</div>
-  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_161644318.jpg" height="640" width="480">
+  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_161644318_resize.jpg" >
   
 </div>
 <div class="mySlides fade">
   <div class="numbertext">8 / 13</div>
-  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_161648365.jpg" height="640" width="480">
+  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_161648365_resize.jpg" >
   
 </div>
 <div class="mySlides fade">
   <div class="numbertext">9 / 13</div>
-  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_162813633.jpg" height="640" width="480">
+  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_162813633_resize.jpg">
   
 </div>
 <div class="mySlides fade">
   <div class="numbertext">10 / 13</div>
-  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_165106057.jpg"  height="640" width="480">
+  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_165106057_resize.jpg" >
   
 </div>
 <div class="mySlides fade">
   <div class="numbertext">11 / 13</div>
-  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_165249533.jpg" height="640" width="480">
+  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_165249533_resize.jpg" >
   
 </div>
 <div class="mySlides fade">
   <div class="numbertext">12 / 13</div>
-  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_170629729.jpg" height="640" width="480">
+  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_170629729_resize.jpg" >
   
 </div>
 <div class="mySlides fade">
   <div class="numbertext">13 / 13</div>
-  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_171639557.jpg" height="640" width="480">
+  <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_171639557_resize.jpg">
   
 </div>
 
