@@ -147,72 +147,72 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
+  <div class="numbertext">1 / 13</div>
   <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_154230508.jpg" style="width:100%">
   
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
+  <div class="numbertext">2 / 13</div>
   <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_154257849.MP.jpg" style="width:100%">
   
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">3 / 13</div>
   <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_154527196.jpg" style="width:100%">
   
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">4 / 13</div>
   <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_154711204.jpg" style="width:100%">
   
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">5 / 13</div>
   <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_154811626.jpg" style="width:100%">
   
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">6 / 13</div>
   <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_155242865.jpg" style="width:100%">
   
 </div>
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">7 / 3</div>
   <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_161644318.jpg" style="width:100%">
   
 </div>
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">8 / 13</div>
   <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_161648365.jpg" style="width:100%">
   
 </div>
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">9 / 13</div>
   <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_162813633.jpg" style="width:100%">
   
 </div>
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">10 / 13</div>
   <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_165106057.jpg" style="width:100%">
   
 </div>
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">11 / 13</div>
   <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_165249533.jpg" style="width:100%">
   
 </div>
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">12 / 13</div>
   <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_170629729.jpg" style="width:100%">
   
 </div>
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">13 / 13</div>
   <img src="{{ site.url }}/assets/hiking/Buffan_falls/PXL_20210703_171639557.jpg" style="width:100%">
   
 </div>
@@ -227,6 +227,17 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+  <span class="dot" onclick="currentSlide(6)"></span> 
+  <span class="dot" onclick="currentSlide(7)"></span> 
+  <span class="dot" onclick="currentSlide(8)"></span> 
+  <span class="dot" onclick="currentSlide(9)"></span> 
+  <span class="dot" onclick="currentSlide(10)"></span> 
+  <span class="dot" onclick="currentSlide(11)"></span> 
+  <span class="dot" onclick="currentSlide(12)"></span> 
+  <span class="dot" onclick="currentSlide(13)"></span> 
+
 </div>
 
 <script>
