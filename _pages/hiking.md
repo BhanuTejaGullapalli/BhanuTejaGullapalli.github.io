@@ -62,7 +62,7 @@ img {vertical-align: middle;}
   width: auto;
   padding: 15px;
   margin-top: -22px;
-  margin-right: 330px;
+  margin-right: 350px;
   color: white;
   font-weight: bold;
   font-size: 18px;
