@@ -6,8 +6,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Hiking"
-    url: /hiking/
+  # - title: "Hiking"
+  #   url: /hiking/
 
   - title: "Contact"
     url: /contact/
