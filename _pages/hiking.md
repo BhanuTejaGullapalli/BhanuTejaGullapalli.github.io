@@ -60,7 +60,7 @@ img {vertical-align: middle;}
   position: absolute;
   top: 50%;
   width: auto;
-  padding: 16px;
+  padding: 36px;
   margin-top: -22px;
   color: white;
   font-weight: bold;
