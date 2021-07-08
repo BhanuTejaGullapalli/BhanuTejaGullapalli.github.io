@@ -18,6 +18,7 @@ Previously, I joined the University of Massachusetts Amherst as a Master's stude
 
 News
 ------
+* **July 2021**: Our paper "OpiTrack: A Wearable-based Clinical Opioid Use Tracker with Temporal Convolutional Attention Networks" has been accepted in **Ubicomp 2021**, More details regarding this will be updated soon!
 * **June 2021**: Organized  **MobiSys 2021 workshop**-[Future of Digital Biomarkers](https://digitalbiomarkers.github.io/) with [Tauhidur Rahman](https://www.tauhidurrahman.com/) and [Michael Sobolev](https://www.michaelsobolev.com/).
 * **May 2021**: Our paper "Joint Prediction of Cocaine Craving and Euphoria using Structured Prediction Energy Networks" got accepted in **MobiSys 2021 workshop**  [Future of Digital Biomarkers](https://digitalbiomarkers.github.io/)!
 * **Jan 2021**: I’ll be returning as the TA for CS528 (Mobile and Ubiquitous Computing) this Spring.
