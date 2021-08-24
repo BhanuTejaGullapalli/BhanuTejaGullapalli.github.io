@@ -3,6 +3,8 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<b> OpiTrack: A Wearable-based Clinical Opioid Use Tracker with Temporal Convolutional Attention Networks</b> <br> <b>Bhanu Teja Gullapalli</b>, Stephanie Carreiro, Brittany P Chapman, Deepak Ganesan, Jan Sjoquist, Tauhidur Rahman. <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) (UbiComp '21).[[PDF]](https://bhanutejagullapalli.github.io/files/IMWUT_OpiTrack.pdf)</i> 
+
 
 <b> Joint prediction of cocaine craving and euphoria using structured prediction energy networks</b> <br> <b>Bhanu Teja Gullapalli</b>, Gustavo A Angarita, Deepak Ganesan, Tauhidur Rahman. <i>Proceedings of the 2021 Workshop on Future of Digital Biomarkers. [[PDF]](https://bhanutejagullapalli.github.io/files/spen_craving_euphoria.pdf) </i>
 
