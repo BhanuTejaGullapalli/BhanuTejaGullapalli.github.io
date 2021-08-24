@@ -178,7 +178,7 @@
   background: #000;
   text-align: right;
   z-index: 5;
-  opacity: 0.5;
+  opacity: 1;
   border-radius: $border-radius 0 $border-radius 0;
 
   @include breakpoint($large) {
@@ -306,9 +306,9 @@
     label {
       pointer-events: none;
       cursor: not-allowed;
-      filter: alpha(opacity=100);
+      filter: alpha(opacity=65);
       box-shadow: none;
-      opacity: 1;
+      opacity: 0.65;
     }
   }
 }
