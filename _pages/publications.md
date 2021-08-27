@@ -66,7 +66,7 @@ name {
 
 #paper_img {
   width: 200;
-  height: 200;
+  height: 400;
 }
 
 .fade {
