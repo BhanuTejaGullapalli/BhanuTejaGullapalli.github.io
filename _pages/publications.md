@@ -14,9 +14,9 @@ author_profile: true
 <br> -->
 <style type="text/css">
 /* Color scheme stolen from Sergey Karayev */
-
+table {border: none;}
 a {
-  color: #1772d0;
+  color: #c7141b;
   text-decoration: none;
 }
 
@@ -79,7 +79,7 @@ span.highlight {
 </style>
 
 <table id="publications" width="100%" align="center" border="0" border-spacing="0" border-collapse="separate"
-  cellspacing="0" cellpadding="20">
+  cellspacing="0" cellpadding="0">
   <!-- <tr bgcolor="#ffffd0"> -->
   <tr>
     <td width="25%" valign="top">
