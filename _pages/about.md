@@ -7,11 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-.ScrollStyle
-{
-    max-height: 150px;
-    overflow-y: scroll;
-}
+
 
 
 Hi, I'm Bhanu Teja Gullapalli; thanks for visiting my website. I am a third-year Ph.D. student in Computer Science at the University of Massachusetts Amherst advised by   [Tauhidur Rahman](http://www.tauhidurrahman.com/).
@@ -38,7 +34,7 @@ Previously, I joined the University of Massachusetts Amherst as a Master's stude
 
 News
 ------
-<div class="ScrollStyle">
+<div style="width: 200px; height: 100px; overflow-y: scroll;">
   Scrollbar Test! <a href="http://www.innovationtoimpact.com/">Innovation to Impact program</a> <br/>
   Scrollbar Test!<br/>
   Scrollbar Test!<br/>
@@ -59,5 +55,5 @@ News
               Scrollbar Test!<br/>
                 Scrollbar Test!<br/>
                   Scrollbar Test!<br/>
-                    Scrollbar Test!<br/>
+                    Scrollbar Test!<br/>  
 </div>
