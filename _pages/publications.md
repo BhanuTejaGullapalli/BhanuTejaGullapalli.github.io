@@ -34,33 +34,33 @@ th,
 tr,
 p,
 a {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family:  sans-serif;
   font-size: 20px
 }
 
 abstract {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: sans-serif;
   font-size: 18px;
 }
 
 strong {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family:sans-serif;
   font-size: 20px;
 }
 
 heading {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family:  sans-serif;
   font-size: 28px;
 }
 
 papertitle {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family:sans-serif;
   font-size: 20px;
   font-weight: 700
 }
 
 name {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family:  sans-serif;
   font-size: 38px;
 }
 
