@@ -80,14 +80,14 @@ span.highlight {
 }
 </style>
 
-<table id="publications" width="1200" align="center" border="0" border-spacing="0" border-collapse="separate"
+<table id="publications" width="1500" align="center" border="0" border-spacing="0" border-collapse="separate"
   cellspacing="0" cellpadding="100">
   <!-- <tr bgcolor="#ffffd0"> -->
   <tr>
-    <td width="200" valign="top">
+    <td width="400" valign="top">
       <img id="paper_img" src='../images/OpiTrack.png'>
     </td>
-    <td width="800" valign="center">
+    <td width="1000" valign="center">
       <a href="https://doi.org/10.1145/3478107">
         <papertitle>OpiTrack: A Wearable-based Clinical Opioid Use Tracker with Temporal Convolutional Attention Networks
         </papertitle>
