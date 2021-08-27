@@ -34,7 +34,7 @@ Previously, I joined the University of Massachusetts Amherst as a Master's stude
 
 News
 ------
-<div style="width: 200px; height: 100px; overflow-y: scroll;">
+<div style="width: 1200px; height: 100px; overflow-y: scroll;">
   Scrollbar Test! <a href="http://www.innovationtoimpact.com/">Innovation to Impact program</a> <br/>
   Scrollbar Test!<br/>
   Scrollbar Test!<br/>
