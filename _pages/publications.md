@@ -35,33 +35,33 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 15px
+  font-size: 20px
 }
 
 abstract {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 13px;
+  font-size: 18px;
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 23px;
+  font-size: 28px;
 }
 
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 15px;
+  font-size: 20px;
   font-weight: 700
 }
 
 name {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 33px;
+  font-size: 38px;
 }
 
 #paper_img {
@@ -81,7 +81,7 @@ span.highlight {
 </style>
 
 <table id="publications" width="100%" align="center" border="0" border-spacing="0" border-collapse="separate"
-  cellspacing="0" cellpadding="20">
+  cellspacing="0" cellpadding="100">
   <!-- <tr bgcolor="#ffffd0"> -->
   <tr>
     <td width="25%" valign="top">
