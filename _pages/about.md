@@ -7,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+.ScrollStyle
+{
+    max-height: 150px;
+    overflow-y: scroll;
+}
 
 
 Hi, I'm Bhanu Teja Gullapalli; thanks for visiting my website. I am a third-year Ph.D. student in Computer Science at the University of Massachusetts Amherst advised by   [Tauhidur Rahman](http://www.tauhidurrahman.com/).
@@ -31,22 +36,17 @@ Previously, I joined the University of Massachusetts Amherst as a Master's stude
 * **Feb 2017**: started my MS in Computer Science at UMass Amherst. -->
 
 
-#### News
-
-<div style="height:250px;overflow:auto;">
-<table>
-<col width="100px">
-<col width="630px">
-<tr><td><b>Aug 2021:</b></td><td>Accepted to Yale's <a href="(http://www.innovationtoimpact.com/)">Innovation to Impact program</a></td></tr>
-<tr><td><b>Aug 2021:</b></td><td>Accepted to Yale's <a href="(http://www.innovationtoimpact.com/)">Innovation to Impact program</a></td></tr>
-<tr><td><b>Aug 2021:</b></td><td>Accepted to Yale's <a href="(http://www.innovationtoimpact.com/)">Innovation to Impact program</a></td></tr>
-<tr><td><b>Aug 2021:</b></td><td>Accepted to Yale's <a href="(http://www.innovationtoimpact.com/)">Innovation to Impact program</a></td></tr>
-<tr><td><b>Aug 2021:</b></td><td>Accepted to Yale's <a href="(http://www.innovationtoimpact.com/)">Innovation to Impact program</a></td></tr>
-<tr><td><b>Aug 2021:</b></td><td>Accepted to Yale's <a href="(http://www.innovationtoimpact.com/)">Innovation to Impact program</a></td></tr>
-<tr><td><b>Aug 2021:</b></td><td>Accepted to Yale's <a href="(http://www.innovationtoimpact.com/)">Innovation to Impact program</a></td></tr>
-<tr><td><b>Aug 2021:</b></td><td>Accepted to Yale's <a href="(http://www.innovationtoimpact.com/)">Innovation to Impact program</a></td></tr>
-<tr><td><b>Aug 2021:</b></td><td>Accepted to Yale's <a href="(http://www.innovationtoimpact.com/)">Innovation to Impact program</a></td></tr>
-<tr><td><b>Aug 2021:</b></td><td>Accepted to Yale's <a href="(http://www.innovationtoimpact.com/)">Innovation to Impact program</a></td></tr>
-<tr><td><b>Aug 2021:</b></td><td>Accepted to Yale's <a href="(http://www.innovationtoimpact.com/)">Innovation to Impact program</a></td></tr>
-<tr><td><b>Aug 2021:</b></td><td>Accepted to Yale's <a href="(http://www.innovationtoimpact.com/)">Innovation to Impact program</a></td></tr>
-<tr><td><b>Aug 2021:</b></td><td>Accepted to Yale's <a href="(http://www.innovationtoimpact.com/)">Innovation to Impact program</a></td></tr>
+News
+------
+<div class="ScrollStyle">
+  Scrollbar Test! <a href="http://www.innovationtoimpact.com/">Innovation to Impact program</a> <br/>
+  Scrollbar Test!<br/>
+  Scrollbar Test!<br/>
+  Scrollbar Test!<br/>
+  Scrollbar Test!<br/>
+  Scrollbar Test!<br/>
+  Scrollbar Test!<br/>
+  Scrollbar Test!<br/>
+  Scrollbar Test!<br/>
+  Scrollbar Test!<br/>
+</div>
