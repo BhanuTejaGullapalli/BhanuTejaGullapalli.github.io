@@ -55,7 +55,7 @@ heading {
 
 papertitle {
   font-family:sans-serif;
-  font-size: 18px;
+  font-size: 21px;
   font-weight: 700
 }
 
