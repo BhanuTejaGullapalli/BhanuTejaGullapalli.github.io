@@ -44,7 +44,7 @@ abstract {
 }
 
 strong {
-  font-family:sans-serif;
+  font-family:'Lato', Verdana, Helvetica, sans-serif;
   font-size: 16px;
 }
 
@@ -58,6 +58,13 @@ papertitle {
   font-size: 19	px;
   font-weight: 700
 }
+
+author_names {
+  font-family:'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 16	px;
+ 
+}
+
 
 name {
   font-family:  sans-serif;
@@ -94,14 +101,16 @@ span.highlight {
       </a>
       <br>
       <strong>Bhanu Teja Gullapalli</strong>,
-      <a href="https://umasstox.com/about-us/faculty-fellows/stephanie-carreiro-md/">Stephanie Carreiro</a>,
+      <a href="https://umasstox.com/about-us/faculty-fellows/stephanie-carreiro-md/"><author_names>Stephanie Carreiro</author_names></a>,
       Brittany P Chapman,
       <a href="https://people.cs.umass.edu/~dganesan/">Deepak Ganesan</a>,
       <a href="https://www.linkedin.com/in/jansjoquist/">Jan Sjoquist</a>,
       <a href="https://www.tauhidurrahman.com/">Tauhidur Rahman</a>
       <br>
       <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) </em>, (UbiComp ‘21)<br>
-      <a href="https://bhanutejagullapalli.github.io/files/IMWUT_OpiTrack.pdf">PDF</a>
+      <a href="https://bhanutejagullapalli.github.io/files/IMWUT_OpiTrack.pdf">PDF</a>/
+      <a href="https://bhanutejagullapalli.github.io/files/IMWUT_OpiTrack.pdf">Slides</a>/
+      <a href="https://bhanutejagullapalli.github.io/files/IMWUT_OpiTrack.pdf">Video</a>
       <br>
       <p align="justify">
         <abstract>
