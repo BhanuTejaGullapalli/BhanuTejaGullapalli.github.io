@@ -37,13 +37,13 @@ News
 <div style="width: 800px; height: 400px; overflow-y: scroll;">
   <p style="margin-bottom: 0.4em;"> <b>Aug 2021:</b> Accepted to Yale's <a href="http://www.innovationtoimpact.com/">Innovation to Impact program</a> </p>
     <p style="margin-bottom: 0.4em;"><b>July 2021:</b> Our work on mobile health tools for substance use disorder has generated <b>NSF Smart and Connected Health grant</b> ($1.1 million) funding for our lab.</p>
-  <b>July 2021:</b> Our paper "OpiTrack: A Wearable-based Clinical Opioid Use Tracker with Temporal Convolutional Attention Networks" has been accepted in <a href="https://www.ubicomp.org/ubicomp2021/">Ubicomp 2021</a>, More details regarding this will be updated soon!<br/>
-  <b>June 2021:</b> Organized <b>MobiSys 2021 workshop</b> <a href="https://digitalbiomarkers.github.io/">Future of Digital Biomarkers</a> with <a href="https://www.tauhidurrahman.com/">Tauhidur Rahman</a> and <a href="https://www.michaelsobolev.com/">Michael Sobolev</a>.<br/>
-  <b>May 2021:</b> Our paper "Joint Prediction of Cocaine Craving and Euphoria using Structured Prediction Energy Networks" got accepted in <b>MobiSys 2021 workshop </b> <a href="https://digitalbiomarkers.github.io/">Future of Digital Biomarkers</a>!<br/>
-  <b>Apr 2021:</b> Passed my <a href="https://www.cics.umass.edu/grads/phd-portfolio">portfolio </a>. I am officially a PhD candidate now! <br/>
- <b>Jan 2021:</b> I’ll be returning as the TA for CS528 (Mobile and Ubiquitous Computing) this Spring. <br/>
-<b>Sept 2019:</b> Presented our paper "On-body Sensing of Cocaine Craving, Euphoria and Drug-Seeking Behavior Using Cardiac and Respiratory Signals" at Ubicomp 2019, London. <br/>
-<b>Feb 2019:</b> Our paper "On-body Sensing of Cocaine Craving, Euphoria and Drug-Seeking Behavior Using Cardiac and Respiratory Signals" got accepted in <a href="https://ubicomp.org/ubicomp2019/">Ubicomp 2019</a>! <br/>
-<b>Sept 2018:</b> Started my PhD in Computer Science at UMass Amherst. <br/>
-<b>Feb 2017:</b> Started my MS in Computer Science at UMass Amherst. <br/>
+  <p style="margin-bottom: 0.4em;"><b>July 2021:</b> Our paper "OpiTrack: A Wearable-based Clinical Opioid Use Tracker with Temporal Convolutional Attention Networks" has been accepted in <a href="https://www.ubicomp.org/ubicomp2021/">Ubicomp 2021</a>, More details regarding this will be updated soon!</p>
+  <p style="margin-bottom: 0.4em;"><b>June 2021:</b> Organized <b>MobiSys 2021 workshop</b> <a href="https://digitalbiomarkers.github.io/">Future of Digital Biomarkers</a> with <a href="https://www.tauhidurrahman.com/">Tauhidur Rahman</a> and <a href="https://www.michaelsobolev.com/">Michael Sobolev</a>.</p>
+<p style="margin-bottom: 0.4em;">  <b>May 2021:</b> Our paper "Joint Prediction of Cocaine Craving and Euphoria using Structured Prediction Energy Networks" got accepted in <b>MobiSys 2021 workshop </b> <a href="https://digitalbiomarkers.github.io/">Future of Digital Biomarkers</a>!</p>
+<p style="margin-bottom: 0.4em;"><b>Apr 2021:</b> Passed my <a href="https://www.cics.umass.edu/grads/phd-portfolio">portfolio </a>. I am officially a PhD candidate now! </p>
+<p style="margin-bottom: 0.4em;"><b>Jan 2021:</b> I’ll be returning as the TA for CS528 (Mobile and Ubiquitous Computing) this Spring. </p>
+<p style="margin-bottom: 0.4em;"><b>Sept 2019:</b> Presented our paper "On-body Sensing of Cocaine Craving, Euphoria and Drug-Seeking Behavior Using Cardiac and Respiratory Signals" at Ubicomp 2019, London. </p>
+<p style="margin-bottom: 0.4em;"><b>Feb 2019:</b> Our paper "On-body Sensing of Cocaine Craving, Euphoria and Drug-Seeking Behavior Using Cardiac and Respiratory Signals" got accepted in <a href="https://ubicomp.org/ubicomp2019/">Ubicomp 2019</a>! </p>
+<p style="margin-bottom: 0.4em;"><b>Sept 2018:</b> Started my PhD in Computer Science at UMass Amherst. </p>
+<p style="margin-bottom: 0.4em;"><b>Feb 2017:</b> Started my MS in Computer Science at UMass Amherst. </p>
 </div>
