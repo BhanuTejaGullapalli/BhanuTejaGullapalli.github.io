@@ -66,7 +66,7 @@ name {
 
 #paper_img {
   width: 1000;
-  height: 500;
+  height: 800;
 }
 
 .fade {
@@ -84,7 +84,7 @@ span.highlight {
   cellspacing="0" cellpadding="100">
   <!-- <tr bgcolor="#ffffd0"> -->
   <tr>
-    <td width="500" valign="top">
+    <td width="500" valign="center">
       <img id="paper_img" src='../images/OpiTrack.png'>
     </td>
     <td width="1400" valign="center">
