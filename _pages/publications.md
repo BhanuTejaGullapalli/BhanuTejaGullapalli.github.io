@@ -13,7 +13,7 @@ author_profile: true
 <b>A New Hierarchical Clustering Algorithm to Identify Non-overlapping Like-minded Communities</b> <br>	Talasila Sai Deepak, Hindol Adhya, Shyamal Kejriwal,  <b>Bhanu Teja Gullapalli</b>, Saswata Shannigrahi. <i>Proceedings of the 27th ACM Conference on Hypertext and Social Media. ACM, 2016 [[PDF]](https://bhanutejagullapalli.github.io/files/cluster2016.pdf)</i> 
 <br> -->
 <style type="text/css">
-/* Color scheme stolen from Sergey Karayev */
+
 table, tr, td {
     border: none;
 }
@@ -40,32 +40,32 @@ a {
 
 abstract {
   font-family: sans-serif;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 strong {
   font-family:sans-serif;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 heading {
   font-family:  sans-serif;
-  font-size: 28px;
+  font-size: 26px;
 }
 
 papertitle {
   font-family:sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 700
 }
 
 name {
   font-family:  sans-serif;
-  font-size: 38px;
+  font-size: 36px;
 }
 
 #paper_img {
-  width: 200;
+  width: 500;
   height: 200;
 }
 
