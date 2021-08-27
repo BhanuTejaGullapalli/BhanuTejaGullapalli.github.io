@@ -87,7 +87,7 @@ span.highlight {
     <td width="400" valign="top">
       <img id="paper_img" src='../images/OpiTrack.png'>
     </td>
-    <td width="1000" valign="center">
+    <td width="1400" valign="center">
       <a href="https://doi.org/10.1145/3478107">
         <papertitle>OpiTrack: A Wearable-based Clinical Opioid Use Tracker with Temporal Convolutional Attention Networks
         </papertitle>
