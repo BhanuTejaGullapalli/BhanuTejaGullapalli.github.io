@@ -80,7 +80,7 @@ span.highlight {
 }
 </style>
 
-<table id="publications" width=1800 align="center" border="0" border-spacing="0" border-collapse="separate"
+<table id="publications" width="1200" align="center" border="0" border-spacing="0" border-collapse="separate"
   cellspacing="0" cellpadding="100">
   <!-- <tr bgcolor="#ffffd0"> -->
   <tr>
