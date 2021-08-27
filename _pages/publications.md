@@ -35,17 +35,17 @@ tr,
 p,
 a {
   font-family:  sans-serif;
-  font-size: 18px
+  font-size: 16px
 }
 
 abstract {
   font-family: sans-serif;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 strong {
   font-family:sans-serif;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 heading {
@@ -55,7 +55,7 @@ heading {
 
 papertitle {
   font-family:sans-serif;
-  font-size: 21px;
+  font-size: 19	px;
   font-weight: 700
 }
 
@@ -106,7 +106,7 @@ span.highlight {
       <br>
       <p align="justify">
         <abstract>
-        Add abstract
+        Using the physiological signal data captured from the E4 wristwatch, we predict intravenous(IV) opioid administrations in a clinical setting. We built a channel-temporal attention TCN architecture, motivated by our observations and previous medical findings to detect administration in a time window. Along with the detection of administrations in a time window, we also predict the moment of administration. 
         </abstract>
       </p>
     </td>
