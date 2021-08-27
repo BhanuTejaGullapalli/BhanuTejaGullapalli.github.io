@@ -65,7 +65,7 @@ name {
 }
 
 #paper_img {
-  width: 500;
+  width: 700;
   height: 200;
 }
 
