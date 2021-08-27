@@ -35,7 +35,7 @@ tr,
 p,
 a {
   font-family:  sans-serif;
-  font-size: 20px
+  font-size: 16px
 }
 
 abstract {
