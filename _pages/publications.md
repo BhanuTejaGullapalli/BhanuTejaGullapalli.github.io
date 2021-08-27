@@ -12,13 +12,78 @@ author_profile: true
 
 <b>A New Hierarchical Clustering Algorithm to Identify Non-overlapping Like-minded Communities</b> <br>	Talasila Sai Deepak, Hindol Adhya, Shyamal Kejriwal,  <b>Bhanu Teja Gullapalli</b>, Saswata Shannigrahi. <i>Proceedings of the 27th ACM Conference on Hypertext and Social Media. ACM, 2016 [[PDF]](https://bhanutejagullapalli.github.io/files/cluster2016.pdf)</i> 
 <br> -->
+<style type="text/css">
+/* Color scheme stolen from Sergey Karayev */
+
+a {
+  color: #1772d0;
+  text-decoration: none;
+}
+
+a:focus,
+a:hover {
+  color: #f09228;
+  text-decoration: none;
+}
+
+body,
+td,
+th,
+tr,
+p,
+a {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 15px
+}
+
+abstract {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+strong {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+heading {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 23px;
+}
+
+papertitle {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: 700
+}
+
+name {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 33px;
+}
+
+#paper_img {
+  width: 200;
+  height: 200;
+}
+
+.fade {
+  transition: opacity .2s ease-in-out;
+  -moz-transition: opacity .2s ease-in-out;
+  -webkit-transition: opacity .2s ease-in-out;
+}
+
+span.highlight {
+  background-color: #ffffd0;
+}
+</style>
 
 <table id="publications" width="100%" align="center" border="0" border-spacing="0" border-collapse="separate"
   cellspacing="0" cellpadding="20">
   <!-- <tr bgcolor="#ffffd0"> -->
   <tr>
     <td width="25%" valign="top">
-      <img id="paper_img" src='../images/OpiTrack.jpg'>
+      <img id="paper_img" src='../images/OpiTrack.png'>
     </td>
     <td width="75%" valign="center">
       <a href="https://doi.org/10.1145/3478107">
