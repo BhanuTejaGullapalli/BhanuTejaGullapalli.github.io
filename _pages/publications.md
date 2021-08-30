@@ -96,7 +96,7 @@ span.highlight {
   <!-- <tr bgcolor="#ffffd0"> -->
   <tr>
     <td width="700" valign="top">
-      <img width="400"  height="500" src='../images/OpiTrack.png'>
+      <img id="paper_img" src='../images/OpiTrack.png'>
     </td>
     <td width="1400" valign="center">
       <a href="https://doi.org/10.1145/3478107">
@@ -126,7 +126,7 @@ span.highlight {
 
   <tr>
     <td width="600" valign="top">
-      <img id="paper_img_new" src='../images/Spen_cocaine.png'>
+      <img width="600" height="600" src='../images/Spen_cocaine.png'>
     </td>
     <td width="1400" valign="center">
       <a href="https://dl.acm.org/doi/abs/10.1145/3469266.3469881">
