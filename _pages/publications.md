@@ -96,7 +96,7 @@ span.highlight {
   <!-- <tr bgcolor="#ffffd0"> -->
   <tr>
     <td width="700" valign="top">
-      <img id="paper_img" src='../images/OpiTrack.png'>
+      <img width="400"  height="500" src='../images/OpiTrack.png'>
     </td>
     <td width="1400" valign="center">
       <a href="https://doi.org/10.1145/3478107">
