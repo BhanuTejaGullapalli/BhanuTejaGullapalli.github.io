@@ -135,7 +135,7 @@ span.highlight {
       </a>
       <br>
       <strong>Bhanu Teja Gullapalli</strong>,
-      Gustavo A Angarita,
+      <a href="https://medicine.yale.edu/profile/gustavo_angarita/"><author_names>Gustavo A Angarita</author_names></a>,
       <a href="https://people.cs.umass.edu/~dganesan/"><author_names>Deepak Ganesan</author_names></a>,
       <a href="https://www.tauhidurrahman.com/"><author_names>Tauhidur Rahman</author_names></a>
       <br>
@@ -146,6 +146,34 @@ span.highlight {
       <p align="justify">
         <abstract>
         Addiction-related states craving and euphoria are interdependent and correlated. However, the state of the art digital biomarker technologies model these states independent of each other and thus fail to use the inherent relationship while making predictions. We use SPENs to jointly predict self-reported visual analog scale (VAS) ratings of cocaine craving and euphoria from cardiac signals captured from a wearable chest band
+        </abstract>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="700" valign="top">
+      <img id="paper_img" src='../images/cocaine_study.png'>
+    </td>
+    <td width="1400" valign="center">
+      <a href="https://dl.acm.org/doi/10.1145/3328917">
+        <papertitle>On-body Sensing of Cocaine Craving, Euphoria and Drug-Seeking Behavior Using Cardiac and Respiratory Signals
+        </papertitle>
+      </a>
+      <br>
+      <strong>Bhanu Teja Gullapalli</strong>,
+      <a href="https://sites.google.com/site/annamalainatarajanweb/"><author_names>Annamalai Natarajan</author_names></a>,
+      <a href="https://medicine.yale.edu/profile/gustavo_angarita/"><author_names>Gustavo A Angarita</author_names></a>,
+      Robert T. Malison,
+      <a href="https://people.cs.umass.edu/~dganesan/"><author_names>Deepak Ganesan</author_names></a>,
+      <a href="https://www.tauhidurrahman.com/"><author_names>Tauhidur Rahman</author_names></a>
+      <br>
+      <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) </em>, (UbiComp '19)<br>
+      [<a href="https://bhanutejagullapalli.github.io/files/Ubicomp19-Craving.pdf">PDF</a>]
+      <br>
+      <p align="justify">
+        <abstract>
+          Drug addiction is a chronic disorder that affects an individual and the surroundings. However, We currently lack the ability to continuously and passively measure the user state in ways that might shed light on the complex relationships between cocaine-induced subjective states (e.g., craving and euphoria) and compulsive drug-seeking behavior. We take an initial step in the modeling of cocaine craving, euphoria and drug-seeking behavior using electrocardiographic (ECG) and respiratory signals unobtrusively collected from a wearable chest band 
         </abstract>
       </p>
     </td>
