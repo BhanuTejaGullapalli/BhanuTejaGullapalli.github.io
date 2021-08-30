@@ -76,8 +76,8 @@ name {
   height: 400;
 }
 #paper_img_new {
-  width: 200;
-  height: 200;
+  width: 400;
+  height: 400;
 }
 
 .fade {
