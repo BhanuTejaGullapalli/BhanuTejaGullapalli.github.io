@@ -75,6 +75,10 @@ name {
   width: 400;
   height: 400;
 }
+#paper_img_new {
+  width: 200;
+  height: 200;
+}
 
 .fade {
   transition: opacity .2s ease-in-out;
@@ -122,7 +126,7 @@ span.highlight {
 
   <tr>
     <td width="200" valign="top">
-      <img id="paper_img" src='../images/Spen_cocaine.png'>
+      <img id="paper_img_new" src='../images/Spen_cocaine.png'>
     </td>
     <td width="1400" valign="center">
       <a href="https://dl.acm.org/doi/abs/10.1145/3469266.3469881">
