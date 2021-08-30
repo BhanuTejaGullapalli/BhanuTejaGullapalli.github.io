@@ -121,7 +121,7 @@ span.highlight {
   </tr>
 
   <tr>
-    <td width="400" valign="top">
+    <td width="200" valign="top">
       <img id="paper_img" src='../images/Spen_cocaine.png'>
     </td>
     <td width="1400" valign="center">
