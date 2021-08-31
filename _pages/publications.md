@@ -114,7 +114,7 @@ span.highlight {
       <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) </em>, (UbiComp ‘21)<br>
       [<a href="https://bhanutejagullapalli.github.io/files/IMWUT_OpiTrack.pdf">PDF</a>]
       [<a href="https://bhanutejagullapalli.github.io/files/slides/opitrack_slides.pptx">Slides</a>]
-      [<a href="https://bhanutejagullapalli.github.io/files/IMWUT_OpiTrack.pdf">Video</a>]
+      [<a href="https://www.youtube.com/watch?v=zo2sz6DhK84&t=4s&ab_channel=MOSAICLabUMass">Video</a>]
       <br>
       <p align="justify">
         <abstract>
