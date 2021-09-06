@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [Long CV](https://bhanutejagullapalli.github.io/files/cv_long.pdf)<br>
-[Short CV](https://bhanutejagullapalli.github.io/files/cv_short.pdf)<br>
+[Short CV](https://bhanutejagullapalli.github.io/files/CV_short.pdf)<br>
 
 
 
