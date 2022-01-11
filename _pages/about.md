@@ -35,7 +35,8 @@ I like to check out places around me, play board games, and go on long drives in
 News
 ------
 <div style="width: 800px; height: 400px; overflow-y: scroll;">
-  <p style="margin-bottom: 0.4em;"> <b>Aug 2021:</b> Accepted to Yale's <a href="http://www.innovationtoimpact.com/">Innovation to Impact program</a> </p>
+  <p style="margin-bottom: 0.4em;"> <b>Dec 2021:</b> Our recent and ongoing work on Addiction Computing Technologies was covered by <a href="https://bit.ly/3zNigTP">UMass Press</a>. </p>
+  <p style="margin-bottom: 0.4em;"> <b>Aug 2021:</b> Accepted to Yale's <a href="http://www.innovationtoimpact.com/">Innovation to Impact program</a>. </p>
     <p style="margin-bottom: 0.4em;"><b>July 2021:</b> Our work on mobile health tools for substance use disorder has generated <b>NSF Smart and Connected Health grant</b> ($1.1 million) funding for our lab.</p>
   <p style="margin-bottom: 0.4em;"><b>July 2021:</b> Our paper "OpiTrack: A Wearable-based Clinical Opioid Use Tracker with Temporal Convolutional Attention Networks" has been accepted in <a href="https://www.ubicomp.org/ubicomp2021/">Ubicomp 2021</a>, More details regarding this will be updated soon!</p>
   <p style="margin-bottom: 0.4em;"><b>June 2021:</b> Organized <b>MobiSys 2021 workshop</b> <a href="https://digitalbiomarkers.github.io/">Future of Digital Biomarkers</a> with <a href="https://www.tauhidurrahman.com/">Tauhidur Rahman</a> and <a href="https://www.michaelsobolev.com/">Michael Sobolev</a>.</p>
