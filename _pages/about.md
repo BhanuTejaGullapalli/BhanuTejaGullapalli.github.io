@@ -35,6 +35,7 @@ I like to check out places around me, play board games, and go on long drives in
 News
 ------
 <div style="width: 800px; height: 400px; overflow-y: scroll;">
+    <p style="margin-bottom: 0.4em;"> <b>May 2022:</b> This summer, I will be starting as a research intern at <a href="https://www.sra.samsung.com/"> Samsung Research America </a> where I will be working with <a href="https://www.sra.samsung.com/digital-health/"> Digital Health Lab </a>. </p>
   <p style="margin-bottom: 0.4em;"> <b>Dec 2021:</b> Our recent and ongoing work on Addiction Computing Technologies was covered by <a href="https://bit.ly/3zNigTP">UMass Press</a>. </p>
   <p style="margin-bottom: 0.4em;"> <b>Aug 2021:</b> Accepted to Yale's <a href="http://www.innovationtoimpact.com/">Innovation to Impact program</a>. </p>
     <p style="margin-bottom: 0.4em;"><b>July 2021:</b> Our work on mobile health tools for substance use disorder has generated <b>NSF Smart and Connected Health grant</b> ($1.1 million) funding for our lab.</p>
