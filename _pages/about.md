@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi, I'm Bhanu Teja Gullapalli; thanks for visiting my website. I am a fifth-year Ph.D. student in the Halıcıoğlu Data Science Institute at the University of California San Diego advised by   [Tauhidur Rahman](http://www.tauhidurrahman.com/).
+Hi, I'm Bhanu Teja Gullapalli; thanks for visiting my website. I am a fifth-year Ph.D. student in the Halıcıoğlu Data Science Institute at University of California San Diego advised by   [Tauhidur Rahman](http://www.tauhidurrahman.com/).
 
 As a member of [Mosaic Lab](http://mosaic.cs.umass.edu/), I focus on machine learning and ubiquitous technologies in the medical domain. Previously, I joined the University of Massachusetts Amherst as a Master's student in 2017 and moved to MS/Ph.D. track in 2018. I did my undergrad at the Indian Institute of Technology -Guwahati (IITG), where I completed my thesis under the supervision of [Samit Bhattacharya](http://www.iitg.ac.in/samit/) and [Benny George](https://www.iitg.ac.in/ben/). 
 
