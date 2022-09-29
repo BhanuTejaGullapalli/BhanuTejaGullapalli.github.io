@@ -10,11 +10,11 @@ redirect_from:
 
 
 
-Hi, I'm Bhanu Teja Gullapalli; thanks for visiting my website. I am a fourth-year Ph.D. student in Computer Science at the University of Massachusetts Amherst advised by   [Tauhidur Rahman](http://www.tauhidurrahman.com/).
+Hi, I'm Bhanu Teja Gullapalli; thanks for visiting my website. I am a fifth-year Ph.D. student in the Halıcıoğlu Data Science Institute at the University of California San Diego advised by   [Tauhidur Rahman](http://www.tauhidurrahman.com/).
 
 As a member of [Mosaic Lab](http://mosaic.cs.umass.edu/), I focus on machine learning and ubiquitous technologies in the medical domain. Previously, I joined the University of Massachusetts Amherst as a Master's student in 2017 and moved to MS/Ph.D. track in 2018. I did my undergrad at the Indian Institute of Technology -Guwahati (IITG), where I completed my thesis under the supervision of [Samit Bhattacharya](http://www.iitg.ac.in/samit/) and [Benny George](https://www.iitg.ac.in/ben/). 
 
-I like to check out places around me, play board games, and go on long drives in my free time. I started hiking actively this year ([my list](https://www.alltrails.com/members/bhanu-gullapalli?ref=header)). At present, I am trying to learn Origami.
+I like to check out places around me, play badminton, board games, and go on long drives in my free time. I started hiking actively this year ([my list](https://www.alltrails.com/members/bhanu-gullapalli/completed)). At present, I am trying to learn Rock climbing.
 
 
 <!-- News
@@ -35,6 +35,8 @@ I like to check out places around me, play board games, and go on long drives in
 News
 ------
 <div style="width: 800px; height: 400px; overflow-y: scroll;">
+      <p style="margin-bottom: 0.4em;"> <b>Sep 2022:</b> I will be moving from UMass Amherst to University of California San Diego to complete my remaining PhD at Halıcıoğlu Data Science Institute. </p>
+
     <p style="margin-bottom: 0.4em;"> <b>May 2022:</b> This summer, I will be starting as a research intern at <a href="https://www.sra.samsung.com/"> Samsung Research America </a> where I will be working with <a href="https://www.sra.samsung.com/digital-health/"> Digital Health Lab </a>. </p>
   <p style="margin-bottom: 0.4em;"> <b>Dec 2021:</b> Our recent and ongoing work on Addiction Computing Technologies was covered by <a href="https://bit.ly/3zNigTP">UMass Press</a>. </p>
   <p style="margin-bottom: 0.4em;"> <b>Aug 2021:</b> Accepted to Yale's <a href="http://www.innovationtoimpact.com/">Innovation to Impact program</a>. </p>
