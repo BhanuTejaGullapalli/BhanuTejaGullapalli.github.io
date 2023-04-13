@@ -38,12 +38,12 @@ News
 ------
 <div style="width: 800px; height: 400px; overflow-y: scroll;">
 
-  <p style="margin-bottom: 0.4em;"> <b>Apr 2023:</b> Our work <b> "Zoom-Based Mindfulness-Oriented Recovery Enhancement Plus Just-in-Time Mindfulness Practice Triggered by Wearable Sensors for Opioid Craving and Chronic Pain"  </b> has been accepted at  <a href="https://www.springer.com/journal/12671"> Mindfulness </a> </p>
+  <p style="margin-bottom: 0.4em;"> <b>Apr 2023:</b> Our work  "Zoom-Based Mindfulness-Oriented Recovery Enhancement Plus Just-in-Time Mindfulness Practice Triggered by Wearable Sensors for Opioid Craving and Chronic Pain" has been accepted for publication in the journal  <a href="https://www.springer.com/journal/12671"> Mindfulness </a> </p>
 
   <p style="margin-bottom: 0.4em;"> <b>Sep 2022:</b> I will be moving from UMass Amherst to University of California San Diego to complete my remaining PhD at Halıcıoğlu Data Science Institute. </p>
 
 
-  <p style="margin-bottom: 0.4em;"> <b>Aug 2022:</b> Our work <b> "Impact of individual and treatment characteristics on wearable sensor-based digital biomarkers of opioid use"  </b> has been accepted to  <a href="https://www.nature.com/articles/s41746-022-00664-z"> npj Digital Medicine Paper </a> </p>
+  <p style="margin-bottom: 0.4em;"> <b>Aug 2022:</b> Our work "Impact of individual and treatment characteristics on wearable sensor-based digital biomarkers of opioid use"  has been accepted for publication in the journal  <a href="https://www.nature.com/articles/s41746-022-00664-z"> npj Digital Medicine Paper </a> </p>
 
 
   <p style="margin-bottom: 0.4em;"> <b>May 2022:</b> This summer, I will be starting as a research intern at <a href="https://www.sra.samsung.com/"> Samsung Research America </a> where I will be working with <a href="https://www.sra.samsung.com/digital-health/"> Digital Health Lab </a>. </p>
