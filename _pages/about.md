@@ -37,9 +37,17 @@ I like to check out places around me, play badminton, board games, and go on lon
 News
 ------
 <div style="width: 800px; height: 400px; overflow-y: scroll;">
-      <p style="margin-bottom: 0.4em;"> <b>Sep 2022:</b> I will be moving from UMass Amherst to University of California San Diego to complete my remaining PhD at Halıcıoğlu Data Science Institute. </p>
 
-    <p style="margin-bottom: 0.4em;"> <b>May 2022:</b> This summer, I will be starting as a research intern at <a href="https://www.sra.samsung.com/"> Samsung Research America </a> where I will be working with <a href="https://www.sra.samsung.com/digital-health/"> Digital Health Lab </a>. </p>
+  <p style="margin-bottom: 0.4em;"> <b>Apr 2023:</b> Our work <b> "Zoom-Based Mindfulness-Oriented Recovery Enhancement Plus Just-in-Time Mindfulness Practice Triggered by Wearable Sensors for Opioid Craving and Chronic Pain"  </b> has been accepted at  <a href="https://www.springer.com/journal/12671"> Mindfulness </a> </p>
+
+  <p style="margin-bottom: 0.4em;"> <b>Sep 2022:</b> I will be moving from UMass Amherst to University of California San Diego to complete my remaining PhD at Halıcıoğlu Data Science Institute. </p>
+
+
+  <p style="margin-bottom: 0.4em;"> <b>Aug 2022:</b> Our work <b> "Impact of individual and treatment characteristics on wearable sensor-based digital biomarkers of opioid use"  </b> has been accepted to  <a href="https://www.nature.com/articles/s41746-022-00664-z"> npj Digital Medicine Paper </a> </p>
+
+
+  <p style="margin-bottom: 0.4em;"> <b>May 2022:</b> This summer, I will be starting as a research intern at <a href="https://www.sra.samsung.com/"> Samsung Research America </a> where I will be working with <a href="https://www.sra.samsung.com/digital-health/"> Digital Health Lab </a>. </p>
+
   <p style="margin-bottom: 0.4em;"> <b>Dec 2021:</b> Our recent and ongoing work on Addiction Computing Technologies was covered by <a href="https://bit.ly/3zNigTP">UMass Press</a>. </p>
   <p style="margin-bottom: 0.4em;"> <b>Aug 2021:</b> Accepted to Yale's <a href="http://www.innovationtoimpact.com/">Innovation to Impact program</a>. </p>
     <p style="margin-bottom: 0.4em;"><b>July 2021:</b> Our work on mobile health tools for substance use disorder has generated <b>NSF Smart and Connected Health grant</b> ($1.1 million) funding for our lab.</p>
