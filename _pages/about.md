@@ -38,7 +38,7 @@ News
 ------
 <div style="width: 800px; height: 400px; overflow-y: scroll;">
 
-  <p style="margin-bottom: 0.4em;"> <b>June 2023:</b> Started my summer internship at <a href="https://www.optumlabs.com/"> Optum Labs  </a> where I will be working with <a href="https://mashfiqui-rabbi.github.io/">Mashfiqui Rabbi </a> </p>
+  <p style="margin-bottom: 0.4em;"> <b>June 2023:</b> Started my summer internship at <a href="https://www.optumlabs.com/"> Optum AI Labs  </a>, where I will be working with <a href="https://mashfiqui-rabbi.github.io/">Mashfiqui Rabbi </a> </p>
 
   <p style="margin-bottom: 0.4em;"> <b>Apr 2023:</b> Our work  <i> "Zoom-Based Mindfulness-Oriented Recovery Enhancement Plus Just-in-Time Mindfulness Practice Triggered by Wearable Sensors for Opioid Craving and Chronic Pain" </i> has been accepted for publication in the journal  <a href="https://www.springer.com/journal/12671"> Mindfulness </a> </p>
 
