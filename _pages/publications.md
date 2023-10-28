@@ -120,6 +120,31 @@ span.highlight {
     </td>
   </tr>
 
+  <tr>
+    <td width="700" valign="top">
+      <img id="paper_img" src='../images/Opitrack_characterstics.jpeg'>
+    </td>
+    <td width="1400" valign="center">
+      <a href="https://www.nature.com/articles/s41746-022-00664-z">
+        <papertitle>Impact of individual and treatment characteristics on wearable sensor-based digital biomarkers of opioid use
+        </papertitle>
+      </a>
+      <br>
+      <a href="https://orcid.org/0000-0001-5761-5135"><author_names>Brittany P Chapman</author_names></a>,
+      <a href="https://www.tauhidurrahman.com/"><author_names>Tauhidur Rahman</author_names></a>, David Smelson, Edward W.Boyer,
+      <a href="https://umasstox.com/about-us/faculty-fellows/stephanie-carreiro-md/"><author_names>Stephanie Carreiro</author_names></a>
+      <br>
+      <em>npj Digital Medicine</em><br>
+      [<a href="https://bhanutejagullapalli.github.io/files/Opitrack_individiual_characterstics.pdf">PDF</a>]
+      <br>
+      <p align="justify">
+        <abstract>
+We analyzed the performance of the OpiTrack model across various individual characteristics, including demographics, substance history, and treatment characteristics such as the duration of hospitalization, type of opioid. We also examined the impact of concurrently administered medications, particularly from classes like beta-adrenergic antagonists (or beta-blockers) and calcium channels. Stratified based on these characteristics, we conducted various statistical analyses. The findings of this study highlighted groups where the model performed well and others where it showed bias.
+        </abstract>
+      </p>
+    </td>
+  </tr>
+
 
   <tr>
     <td width="700" valign="top">
