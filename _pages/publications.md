@@ -130,7 +130,7 @@ span.highlight {
         </papertitle>
       </a>
       <br>
-      <a href="https://orcid.org/0000-0001-5761-5135"><author_names>Brittany P Chapman</author_names></a>,
+      <a href="https://orcid.org/0000-0001-5761-5135"><author_names>Brittany P Chapman</author_names></a>,<strong>Bhanu Teja Gullapalli</strong>,
       <a href="https://www.tauhidurrahman.com/"><author_names>Tauhidur Rahman</author_names></a>, David Smelson, Edward W.Boyer,
       <a href="https://umasstox.com/about-us/faculty-fellows/stephanie-carreiro-md/"><author_names>Stephanie Carreiro</author_names></a>
       <br>
