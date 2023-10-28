@@ -94,6 +94,33 @@ span.highlight {
 <table id="publications" width="2000" align="center" border="0" border-spacing="0" border-collapse="separate"
   cellspacing="0" cellpadding="100">
   <!-- <tr bgcolor="#ffffd0"> -->
+
+  <tr>
+    <td width="700" valign="top">
+      <img id="paper_img" src='../images/More.jpg'>
+    </td>
+    <td width="1400" valign="center">
+      <a href="https://link.springer.com/article/10.1007/s12671-023-02137-0">
+        <papertitle>Zoom-Based Mindfulness-Oriented Recovery Enhancement Plus Just-in-Time Mindfulness Practice Triggered by Wearable Sensors for Opioid Craving and Chronic Pain
+        </papertitle>
+      </a>
+      <br>
+      <a href="https://drericgarland.com/"><author_names>Eric L. Garland</author_names></a>,
+      <strong>Bhanu Teja Gullapalli</strong>, Kort C. Prince,  Adam W. Hanley,  Mathias Sanyer, Mark Tuomenoksa,
+      <a href="https://www.tauhidurrahman.com/"><author_names>Tauhidur Rahman</author_names></a>
+      <br>
+      <em>Minfulness Journal</em><br>
+      [<a href="https://bhanutejagullapalli.github.io/files/Mindfulness_Wearable.pdf">PDF</a>]
+      <br>
+      <p align="justify">
+        <abstract>
+     In this pilot RCT, we utilized a Zoom-based MORE plus a just-in-time adaptive intervention triggered by wearable sensors. For participants in the MORE group, when stress is detected, we deliver an audio-recorded mindfulness intervention. Participants in the MORE group exhibited a significant drop compared to those in the Supportive group (SG). Wearable information, such as momentary heart rate, step count, and physical activity, was found to be predictive of the effectiveness of these sessions.  
+        </abstract>
+      </p>
+    </td>
+  </tr>
+
+
   <tr>
     <td width="700" valign="top">
       <img id="paper_img" src='../images/OpiTrack.png'>
