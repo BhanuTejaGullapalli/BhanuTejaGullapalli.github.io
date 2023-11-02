@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi, I'm Bhanu Teja Gullapalli; thanks for visiting my website. I am a fifth-year Ph.D. student in the Halıcıoğlu Data Science Institute at the University of California San Diego advised by   [Tauhidur Rahman](http://www.tauhidurrahman.com/).
+Hi, I'm Bhanu Teja Gullapalli; thanks for visiting my website. I am a sixth-year Ph.D. student in the Halıcıoğlu Data Science Institute at the University of California San Diego advised by   [Tauhidur Rahman](http://www.tauhidurrahman.com/).
 
 As a member of [Mosaic Lab](http://mosaic.cs.umass.edu/), I focus on machine learning and ubiquitous technologies in the medical domain. I am primarily interested in developing machine learning algorithms that understand the time-series physiological signals collected from wearable devices to predict and explain various behavioral variables associated with substance usage and addiction. 
 
