@@ -35,12 +35,9 @@ Gustavo A Angarita, Deepak Kumar Ganesan, Tauhidur Rahman
 
 * [On-body Sensing of Cocaine Craving, Euphoria and Drug-Seeking Behavior Using Cardiac and Respiratory Signals](https://dl.acm.org/doi/10.1145/3328917)  
 *Bhanu Teja Gullapalli*, Annamalai Natarajan, Gustavo A Angarita, Robert T Malison (late), Deepak Kumar Ganesan, Tauhidur Rahman  
-**Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2019**  
-[PDF]({{ site.url }}/assets/Ubicomp19-Craving.pdf) 
+*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2019* 
+[PDF]({{ site.url }}/assets/Ubicomp19-Craving.pdf)
 
 
 
 
-<!-- **Main Collaborators** (in order of publication date): [Karen Livescu](https://ttic.uchicago.edu/~klivescu), [Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel), [Liang Lu](https://ttic.uchicago.edu/~llu), [Shubham Toshniwal](https://ttic.uchicago.edu/~shtoshni), [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/), [Purva Tendulkar](http://purvaten.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/), [Nader Akoury](https://people.cs.umass.edu/~nsa/), [Gaurav Singh Tomar](https://scholar.google.com/citations?user=p1SDN0oAAAAJ&hl=en), [Ankur P. Parikh](https://www.cs.cmu.edu/~apparikh/publications.html), [Nicolas Papernot](https://www.papernot.fr/), [John Wieting](https://www.cs.cmu.edu/~jwieting), [Aurko Roy](https://sites.google.com/site/royaurko/), [Simeng Sun](https://people.cs.umass.edu/~simengsun/), [Deepak Nathani](https://deepakn97.github.io/), [Xavier Garcia](https://scholar.google.com/citations?user=Y2Hio6MAAAAJ&hl=en), [Bidisha Samanta](https://sites.google.com/view/bidisha-samanta), [Partha Talukdar](https://talukdar.net/), [Yapei Chang](https://lilakk.github.io/), [Katherine Thai](https://katherinethai.github.io/), [Ankita Gupta](https://ankitaiisc.github.io/), [Welong Zhao](https://www.linkedin.com/in/wenlong-zhao/), [Jack Merullo](https://www.linkedin.com/in/jack-merullo-5215a4193), [Marzena Karpinska](https://marzenakrp.github.io), [Yixiao Song](https://yixiao-song.github.io), [Pradeep Dasigi](https://pdasigi.github.io/), [Arman Cohan](https://armancohan.com/), [Kyle Lo](https://kyleclo.github.io/) -->
-
- 
