@@ -5,7 +5,7 @@ permalink: /research/
 order: 5
 ---
 
-I focus on machine learning and ubiquitous technologies in the medical domain. I am broadly interested in Wearable Health Sensing and Machine Learning. My primary focus has been developing machine learning algorithms that understand the time-series physiological signals collected from wearable devices to predict and explain various behavioral variables associated with substance usage and addiction.
+I am broadly interested in Wearable Health Sensing and Machine Learning. My primary focus has been developing machine learning algorithms that understand the time-series physiological signals collected from wearable devices to predict and explain various behavioral variables associated with substance usage and addiction.
 
 [Google Scholar](https://scholar.google.com/citations?user=Jfoac8IAAAAJ&hl=en)
 
@@ -25,7 +25,7 @@ Eric L. Garland, <i>Bhanu Teja Gullapalli</i>\*, Kort C. Prince, Adam W. Hanley,
  <i>Bhanu Teja Gullapalli</i>\*, 
 Stephanie Carreiro, Brittany P Chapman, Deepak Ganesan, Jan Sjoquist, Tauhidur Rahman
 *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2021*       
-[PDF]({{ site.url }}/assets/IMWUT_OpiTrack.pdf) // [Slides]({{ site.url }}/assets/opitrack_slides.pptx) // [Video](https://www.youtube.com/watch?v=zo2sz6DhK84&t=4s&ab_channel=MOSAICLabUMass) // [Tweet](https://x.com/BhanuGullapalli/status/1425200363053985792?s=20)
+[PDF]({{ site.url }}/assets/IMWUT_OpiTrack.pdf) // [Slides]({{ site.url }}/assets/opitrack_slides.pptx) // [Video](https://www.youtube.com/watch?v=zo2sz6DhK84&ab_channel=MOSAICLabUCSD) // [Tweet](https://x.com/BhanuGullapalli/status/1425200363053985792?s=20)
 
 * [Joint prediction of cocaine craving and euphoria using structured prediction energy networks](https://dl.acm.org/doi/abs/10.1145/3469266.3469881)  
  <i>Bhanu Teja Gullapalli</i>\*, 
