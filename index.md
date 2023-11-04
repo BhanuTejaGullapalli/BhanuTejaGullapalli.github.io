@@ -5,10 +5,10 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/profile_blog.jpg">
 
-Hi, I'm Bhanu Teja Gullapalli; thanks for visiting my website. I am a sixth-year Ph.D. student in the Halıcıoğlu Data Science Institute at the University of California San Diego advised by   [Tauhidur Rahman](http://www.tauhidurrahman.com/).
+I am a Ph.D. student in the Halıcıoğlu Data Science Institute at the University of California San Diego advised by   [Tauhidur Rahman](http://www.tauhidurrahman.com/). My research lies at the intersection of wearable health sensing and machine learning (with occasional hops onto underlying biology)
 
 
-In the past, I have worked as a research intern at [Optum AI Labs](https://www.optumlabs.com/work/artificial-intelligence.html), [Samsung Digital Health Lab](https://www.sra.samsung.com/digital-health/). I joined the University of Massachusetts Amherst as a Master's student in 2017 and moved to MS/Ph.D. track in 2018. After spending four wonderful years there, I transferred to the University of California San Diego. I did my undergrad at the Indian Institute of Technology -Guwahati (IITG), where I completed my thesis under the supervision of [Samit Bhattacharya](http://www.iitg.ac.in/samit/) and [Benny George](https://www.iitg.ac.in/ben/). 
+A bit about my research journey in no chronological order: In the past, I have worked as a research intern at [Optum AI Labs](https://www.optumlabs.com/work/artificial-intelligence.html), [Samsung Digital Health Lab](https://www.sra.samsung.com/digital-health/). I joined the University of Massachusetts Amherst as a Master's student in 2017 and moved to MS/Ph.D. track in 2018. After spending four wonderful years there, I transferred to the University of California San Diego. I did my undergrad at the Indian Institute of Technology -Guwahati (IITG), where I completed my thesis under the supervision of [Samit Bhattacharya](http://www.iitg.ac.in/samit/) and [Benny George](https://www.iitg.ac.in/ben/). [More about me..]({{ site.url }}/about)
 
 If you are interested in knowing about my research, checkout the [Research]({{ site.url }}/research) tab. 
 
