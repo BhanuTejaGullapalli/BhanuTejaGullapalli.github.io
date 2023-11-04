@@ -4,16 +4,19 @@ title: Research
 permalink: /research/
 order: 5
 ---
-I am broadly interested in Natural Language Processing (especially Text Generation) and Machine Learning Security & Privacy.
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=9g2BsMUAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Kalpesh-Krishna/26161085)
+I focus on machine learning and ubiquitous technologies in the medical domain.
+I am broadly interested in Wearable Health Sensing and Machine Learning. My primary focus has been developing machine learning algorithms that understand the time-series physiological signals collected from wearable devices to predict and explain various behavioral variables associated with substance usage and addiction. 
 
-### Selected Papers
+[Google Scholar](https://scholar.google.com/citations?user=Jfoac8IAAAAJ&hl=en)
 
-* [FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation](https://arxiv.org/abs/2305.14251)  
-Sewon Min\*, <i>Kalpesh Krishna</i>\*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, Hannaneh Hajishirzi  
-**EMNLP 2023**    
-[PIP package](https://pypi.org/project/factscore) // [code](https://github.com/shmsw25/FActScore) // [tweet](https://twitter.com/kalpeshk2011/status/1661151332148084737)
+###  Papers
+
+* [On-body Sensing of Cocaine Craving, Euphoria and Drug-Seeking Behavior Using Cardiac and Respiratory Signals](https://dl.acm.org/doi/10.1145/3328917)  
+ <i>Bhanu Teja Gullapalli</i>\*, Annamalai Natarajan, Gustavo A Angarita, 
+Robert T Malison (late), Deepak Kumar Ganesan, Mohit Iyyer, Tauhidur Rahman
+*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2019*    
+[PDF]({{ site.url }}/assets/Ubicomp19-Craving.pdf) 
 
 * [Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense](https://arxiv.org/abs/2303.13408)  
 *Kalpesh Krishna*, Yixiao Song, Marzena Karpinska, John Wieting, Mohit Iyyer  
