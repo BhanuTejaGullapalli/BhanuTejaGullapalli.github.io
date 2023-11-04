@@ -7,11 +7,14 @@ layout: page
 
 Hi, I'm Bhanu Teja Gullapalli; thanks for visiting my website. I am a sixth-year Ph.D. student in the Halıcıoğlu Data Science Institute at the University of California San Diego advised by   [Tauhidur Rahman](http://www.tauhidurrahman.com/).
 
-As a member of [Mosaic Lab](http://mosaic.cs.umass.edu/), I focus on machine learning and ubiquitous technologies in the medical domain. I am primarily interested in developing machine learning algorithms that understand the time-series physiological signals collected from wearable devices to predict and explain various behavioral variables associated with substance usage and addiction. 
 
 In the past, I have worked as a research intern at [Samsung Digital Health Lab](https://www.sra.samsung.com/digital-health/). I joined the University of Massachusetts Amherst as a Master's student in 2017 and moved to MS/Ph.D. track in 2018. After spending four wonderful years there, I transferred to the University of California San Diego. I did my undergrad at the Indian Institute of Technology -Guwahati (IITG), where I completed my thesis under the supervision of [Samit Bhattacharya](http://www.iitg.ac.in/samit/) and [Benny George](https://www.iitg.ac.in/ben/). 
 
-I like to check out places around me, play badminton, board games, and go on long drives in my free time. I started hiking actively last year ([my list](https://www.alltrails.com/members/bhanu-gullapalli/completed)). At present, I am trying to learn more about stars. 
+If you are interested in checking out my research, checkout the [Research]({{ site.url }}/research) tab. 
+
+[CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=Jfoac8IAAAAJ&hl=en), 
+Email ID: [bgullapalli@ucsd.edu](mailto:bgullapalli@ucsd.edu) 
+
 
 #### Updates
 
@@ -19,7 +22,7 @@ I like to check out places around me, play badminton, board games, and go on lon
 <table>
 <col width="100px">
 <col width="650px">
-  <tr><td><b>Nov 2023:</b></td><td>upcoming talk at the University of Pittsburgh NLP seminar.</td>
+  <tr><td><b>Oct 2023:</b></td><td>Our work <i> "Pharmacokinetics-Informed Neural Network for Predicting Opioid Administration Moments with Wearable Sensors"</i> has been accepted in <a href="https://aaai.org/aaai-conference/iaai-24-call-for-participation/"> Innovative Applications of Artificial Intelligence (IAAI-24). </a> </td>
       <tr><td><b>Oct 2023:</b></td><td>one <a href="https://arxiv.org/abs/2305.14251">paper</a> to appear at EMNLP 2023 on fine-grained automatic evaluation of long-form text generation. Check out our <a href="https://pypi.org/project/factscore">PIP package</a> too!</td></tr>  
   <tr><td><b>Sept 2023:</b></td><td>one <a href="https://arxiv.org/abs/2303.13408">paper</a> to appear in NeurIPS 2023 on paraphrase attacks on AI-generated text detection and defending against these attacks using retrieval. Our model, data and code is available <a href="https://github.com/martiansideofthemoon/ai-detection-paraphrases">here</a>.</td></tr>
   <tr><td><b>Sept 2023:</b></td><td>talk at <a href="https://nlpwithfriends.com/speakers/kalpesh-krishna">NLP with Friends</a> on AI-generated text detection.</td></tr>
