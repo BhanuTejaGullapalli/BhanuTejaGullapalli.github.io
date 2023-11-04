@@ -12,7 +12,7 @@ In the past, I have worked as a research intern at [Samsung Digital Health Lab](
 
 If you are interested in checking out my research, checkout the [Research]({{ site.url }}/research) tab. 
 
-[CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=Jfoac8IAAAAJ&hl=en), 
+[CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=Jfoac8IAAAAJ&hl=en)
 Email ID: [bgullapalli@ucsd.edu](mailto:bgullapalli@ucsd.edu) 
 
 

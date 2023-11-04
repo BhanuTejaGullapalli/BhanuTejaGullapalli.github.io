@@ -9,7 +9,7 @@ I focus on machine learning and ubiquitous technologies in the medical domain. I
 
 [Google Scholar](https://scholar.google.com/citations?user=Jfoac8IAAAAJ&hl=en)
 
-###  Papers
+### Papers
 
 * [On-body Sensing of Cocaine Craving, Euphoria and Drug-Seeking Behavior Using Cardiac and Respiratory Signals](https://dl.acm.org/doi/10.1145/3328917)  
  <i>Bhanu Teja Gullapalli</i>\*, Annamalai Natarajan, Gustavo A Angarita, 
