@@ -8,9 +8,9 @@ layout: page
 Hi, I'm Bhanu Teja Gullapalli; thanks for visiting my website. I am a sixth-year Ph.D. student in the Halıcıoğlu Data Science Institute at the University of California San Diego advised by   [Tauhidur Rahman](http://www.tauhidurrahman.com/).
 
 
-In the past, I have worked as a research intern at [Samsung Digital Health Lab](https://www.sra.samsung.com/digital-health/). I joined the University of Massachusetts Amherst as a Master's student in 2017 and moved to MS/Ph.D. track in 2018. After spending four wonderful years there, I transferred to the University of California San Diego. I did my undergrad at the Indian Institute of Technology -Guwahati (IITG), where I completed my thesis under the supervision of [Samit Bhattacharya](http://www.iitg.ac.in/samit/) and [Benny George](https://www.iitg.ac.in/ben/). 
+In the past, I have worked as a research intern at [Optum AI Labs](https://www.optumlabs.com/work/artificial-intelligence.html), [Samsung Digital Health Lab](https://www.sra.samsung.com/digital-health/). I joined the University of Massachusetts Amherst as a Master's student in 2017 and moved to MS/Ph.D. track in 2018. After spending four wonderful years there, I transferred to the University of California San Diego. I did my undergrad at the Indian Institute of Technology -Guwahati (IITG), where I completed my thesis under the supervision of [Samit Bhattacharya](http://www.iitg.ac.in/samit/) and [Benny George](https://www.iitg.ac.in/ben/). 
 
-If you are interested in checking out my research, checkout the [Research]({{ site.url }}/research) tab. 
+If you are interested in knowing about my research, checkout the [Research]({{ site.url }}/research) tab. 
 
 [CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=Jfoac8IAAAAJ&hl=en)
 Email ID: [bgullapalli@ucsd.edu](mailto:bgullapalli@ucsd.edu) 
