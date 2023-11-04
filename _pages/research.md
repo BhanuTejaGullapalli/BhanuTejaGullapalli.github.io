@@ -5,8 +5,7 @@ permalink: /research/
 order: 5
 ---
 
-I focus on machine learning and ubiquitous technologies in the medical domain.
-I am broadly interested in Wearable Health Sensing and Machine Learning. My primary focus has been developing machine learning algorithms that understand the time-series physiological signals collected from wearable devices to predict and explain various behavioral variables associated with substance usage and addiction. 
+I focus on machine learning and ubiquitous technologies in the medical domain. I am broadly interested in Wearable Health Sensing and Machine Learning. My primary focus has been developing machine learning algorithms that understand the time-series physiological signals collected from wearable devices to predict and explain various behavioral variables associated with substance usage and addiction.
 
 [Google Scholar](https://scholar.google.com/citations?user=Jfoac8IAAAAJ&hl=en)
 
