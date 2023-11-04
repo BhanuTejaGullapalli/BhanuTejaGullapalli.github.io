@@ -34,10 +34,10 @@ Gustavo A Angarita, Deepak Kumar Ganesan, Tauhidur Rahman
 [PDF]({{ site.url }}/assets/spen_craving_euphoria.pdf) // [Video](https://www.youtube.com/watch?v=GWDFOkj6gU0&ab_channel=ACMSIGMOBILEONLINE)
 
 * [On-body Sensing of Cocaine Craving, Euphoria and Drug-Seeking Behavior Using Cardiac and Respiratory Signals](https://dl.acm.org/doi/10.1145/3328917)  
-*Bhanu Teja Gullapalli*, Annamalai Natarajan, Gustavo A Angarita, Robert T Malison (late), Deepak Kumar Ganesan, Tauhidur Rahman 
-
-**Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2019**   
+*Bhanu Teja Gullapalli*, Annamalai Natarajan, Gustavo A Angarita, Robert T Malison (late), Deepak Kumar Ganesan, Tauhidur Rahman  
+**Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2019**  
 [PDF]({{ site.url }}/assets/Ubicomp19-Craving.pdf) 
+
 
 
 
