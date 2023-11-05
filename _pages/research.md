@@ -12,14 +12,14 @@ I am broadly interested in Wearable Health Sensing and Machine Learning. My prim
 ### Papers
 
 * [Zoom-Based Mindfulness-Oriented Recovery Enhancement Plus Just-in-Time Mindfulness Practice Triggered by Wearable Sensors for Opioid Craving and Chronic Pain](https://link.springer.com/article/10.1007/s12671-023-02137-0)  
-Eric L. Garland, <i>Bhanu Teja Gullapalli</i>\*, Kort C. Prince, Adam W. Hanley, Mathias Sanyer, Mark Tuomenoksa, Tauhidur Rahman
-*Minfulness Journal*       
+Eric L. Garland, <i>Bhanu Teja Gullapalli</i>\*, Kort C. Prince, Adam W. Hanley, Mathias Sanyer, Mark Tuomenoksa, Tauhidur Rahman  
+*Minfulness Journal*  
 [PDF]({{ site.url }}/assets/Mindfulness_Wearable.pdf) 
 
 * [Impact of individual and treatment characteristics on wearable sensor-based digital biomarkers of opioid use](https://www.nature.com/articles/s41746-022-00664-z)  
- Brittany P Chapman, <i>Bhanu Teja Gullapalli</i>\*,  Tauhidur Rahman, David Smelson, Edward W.Boyer, Stephanie Carreiro
-*npj Digital Medicine*       
-[PDF]({{ site.url }}/assets/Opitrack_individiual_characterstics.pdf) // [Tweet](https://x.com/ToxInnovation/status/1562127046750486529?s=20)
+ Brittany P Chapman, <i>Bhanu Teja Gullapalli</i>\*,  Tauhidur Rahman, David Smelson, Edward W.Boyer, Stephanie Carreiro  
+ *npj Digital Medicine*  
+ [PDF]({{ site.url }}/assets/Opitrack_individiual_characterstics.pdf) // [Tweet](https://x.com/ToxInnovation/status/1562127046750486529?s=20)
 
 * [OpiTrack: A Wearable-based Clinical Opioid Use Tracker with Temporal Convolutional Attention Networks](https://doi.org/10.1145/3478107)  
  <i>Bhanu Teja Gullapalli</i>\*, 
