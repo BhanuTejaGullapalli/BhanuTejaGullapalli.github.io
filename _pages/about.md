@@ -9,13 +9,13 @@ As your curiousity has led you here (and I'm sure to many places), I will take y
 I use the multimodal physiological data from wearable devices along with an individual's demographical characterstics (age,gender,comorbidities,etc) to develop digital biomarkers in the space of substance usage addiction. Primarly, I worked with mobile-sensor data collected from hospital-, and real-world settings to predict different aspects of an addiction cycle for different drugs.
 <figure>
   <img src="{{ site.url }}/assets/about_work.png" alt="Research"/>
-  <figcaption>A quick illustartion of my work. I promise all the data I worked on has been collected in a consented manner except for this picture taken by <a href="https://www.tauhidurrahman.com/"> Tauhidur Rahman </a> .</figcaption>
+  <figcaption>A quick illustartion of my work. I promise all the medical data I worked on has been collected in a consented manner except for this picture taken by <a href="https://www.tauhidurrahman.com/"> Tauhidur Rahman </a> .</figcaption>
 </figure>
 
 If you still have attention and time, let me put my research journey in a short-story:-  
 ## Act 1
-With a curiousity and determination to push the boundaries of research (thanks to my annoying undergrad friends who are always on about this) and make it possible to transition to real-world, I landed in U.S sometime after my undergrad to pursue Master's and figure out what I want to work on. My surprise in knowing there exsists- Machine learning an area computer science that I was previously unaware of and that focussed on emerging real-wrold problems made me pursue related courses, and work in related research labs. A happy little coincidence is that my first research work in these labs was focussed on Smoking cessation relapse using smartwatch data. (CUT TO)..
-
+With a curiousity and determination to push the boundaries of research (thanks to my annoying undergrad friends who are always on about this) and make it possible to transition to real-world, I landed in U.S sometime after my undergrad to pursue Master's and figure out what I want to work on.  
+My surprise in knowing there exsists- Machine learning an area computer science that I was previously unaware of and that focussed on emerging real-wrold problems made me pursue related courses, and work in related research labs. A happy little coincidence is that my first research work in these labs was focussed on Smoking cessation relapse using smartwatch data. (CUT TO)..
 Almost a year later, with better understanding of  
 
 
