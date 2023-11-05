@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-order: 5
+order: 2
 ---
 
 I am broadly interested in Wearable Health Sensing and Machine Learning. My primary focus has been developing machine learning algorithms that understand the time-series physiological signals collected from wearable devices to predict and explain various behavioral variables associated with substance usage and addiction.
