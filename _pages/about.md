@@ -10,12 +10,12 @@ I utilize multimodal physiological data from wearable devices, along with indivi
 
   <img src="{{ site.url }}/assets/about_work.png" alt="Research"/>
   <figcaption>A quick illustartion of my work. I promise all the data I worked on has been collected in a consented manner except for this picture taken by <a href="https://www.tauhidurrahman.com/"> Tauhidur Rahman </a> .</figcaption>
-</figure>
+
 
 If you still have attention and time, let me put my research journey in a short-story:-  
 ## Act 1
 With a curiousity and determination to push the boundaries of research (thanks to my persistent undergraduate friends who never stopped talking about it) and make it possible to transition to real-world. I made the leap to the U.S. in 2017, shortly after my undergraduate studies, to pursue a Master's degree and discover my research interests.  
-To my surprise, I discovered machine learning—a field within computer science previously unknown to me—which focuses on addressing real-world problems. This revelation led me to enroll in related courses and work in research labs specializing in the field. A happy little coincidence was that my first research project in these labs revolved around smoking cessation relapse using smartwatch data. (CUT TO)...
+To my surprise, I discovered machine learning—a field within computer science previously unknown to me—which focused on addressing real-world problems. This revelation led me to enroll in related courses and work in research labs specializing in the field. A happy little coincidence was that my first research project in these labs revolved around smoking cessation relapse using smartwatch data. (CUT TO)..  
 Almost a year later, with my pressumed understanding and confidence in machine-learning, I knocked on the the door of Tauhidur Rahman, seeking a long-term research problem and his advising.
 
 ## Act 2
