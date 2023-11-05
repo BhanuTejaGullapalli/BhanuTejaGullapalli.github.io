@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 order: 1
 ---
+a
+<!-- As your curiousity has led you here (and I'm sure to many places), I will take your most attentive part of the time to pitch my research:  
 
-As your curiousity has led you here (and I'm sure to many places), I will take your most attentive part of the time to pitch my research:  
-
-I use the multimodal physiological data from wearable devices like smartwatches along with an individual's demographical characterstics (age,gender,comorbidities,etc) to develop digital biomarkers in the space of substance usage addiction. Primarly, I worked with mobile-sensor data collected from hospital-, and real-world settings to predict different aspects of an addiction cycle
+I use the multimodal physiological data from wearable devices like smartwatches along with an individual's demographical characterstics (age,gender,comorbidities,etc) to develop digital biomarkers in the space of substance usage addiction. Primarly, I worked with mobile-sensor data collected from hospital-, and real-world settings to predict different aspects of an addiction cycle for different drugs.
 <figure>
   <img src="{{ site.url }}/assets/about_work.png" alt="Research"/>
   <figcaption>A quick illustartion of my work.</figcaption>
-</figure>
+</figure> -->
 
 <!-- .
 
