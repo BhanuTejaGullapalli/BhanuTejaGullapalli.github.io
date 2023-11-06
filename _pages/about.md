@@ -11,7 +11,7 @@ I utilize multimodal physiological data from wearable devices, along with indivi
   <img src="{{ site.url }}/assets/about_work.png" alt="Research"/>
   <figcaption>A quick illustartion of my work. I solemnly swear all the data I worked on in my research has been collected in a consented manner except for this picture taken by <a href="https://www.tauhidurrahman.com/"> Tauhidur Rahman </a> .</figcaption>  
 
-If you still have attention and time, two common things recurring in all my projects, let me put my research journey in a short-story that seems less technical and more luckier :-  
+If you still have attention and time, two common things recurring in all my projects, let me put MY research journey in a short-story that seems less technical and more luckier :-  
 ## Act 1
 (COUGH,COUGH) With a curiousity to push the boundaries of research (no, seriously, thanks to my persistent undergraduate friends who never stopped talking about it) and to see if I can push mine to real-world, shortly after my undergraduate studies I made a leap to U.S. in 2017 for Master's and discover my research interests for PhD.  
 To my surprise (not-so now), I discovered machine learning—a field within computer science previously unknown to me—which focused on addressing real-world problems. This curiousity led me to enroll in related courses and work in research labs focussing on related field and working on real-world problems.  
@@ -23,7 +23,7 @@ Almost a year later, with my pressumed understanding and confidence in machine-l
 Of course as one (un-?)expected... this idea was gently put down by him and a more (un-?)realistic and short-term project was advised as a start. Another little luck, this project was also on wearable and substance use addiction. With promising results I submmited the paper and with this promising hope I started my PhD in this line of research.  
 CUT TO...  
 Few months later, working on a larger scale dataset of this project with more uncontrolled parameters, it was easy finding a hypothesis here but it was not so easy to clean the noise in these datasets to solve for that hypothesis.  
-Another little luck, during this disproportionate time of Signal-to-noise ratio (SNR), I came across upon a <a href="https://umasstox.com/">group of researchers</a> (<2 Hr Drive away) who happened to mistaken the time and collect wearable data from a large scale participants with one of best SNR I had seen and willing to colloborate.  
+Another little luck, during this disproportionate time of Signal-to-noise ratio (SNR), I came across upon a <a href="https://umasstox.com/">group of researchers</a> (<2 Hr Drive away) who collected wearable data from a large scale participants with one of best SNR I had seen and willing to colloborate.  
 Of course, once again as expected like any other PhD project this started with countless bad hypothesis before finding the right one. Our findings were made public, simultaneously I was making the best use of the snow around me in Amherst by learning to ski.  
 Anohter little luck, just when this project is completed and I am looking for new research directions in this space. Another 
 
