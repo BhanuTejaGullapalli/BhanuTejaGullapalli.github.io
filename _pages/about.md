@@ -5,13 +5,13 @@ permalink: /about/
 order: 2
 ---
 
-As your curiousity has led you here (and I'm sure to many others places), I will take the most attentive part of your time to present my research:  
+As your curiousity has led you here (and I'm sure to many others places), I will take the most attentive part of your time to present my research first:  
 I utilize multimodal physiological data from wearable devices, along with individual's demographic characterstics (age,comorbidities,etc.), to develop *digital biomarkers in the space of substance use addiction*. Primarly, I work with mobile-sensor data collected in both hospital settings and the real world to predict various aspects of the addiction cycle for different drugs.
 
   <img src="{{ site.url }}/assets/about_work.png" alt="Research"/>
   <figcaption>A quick illustartion of my work. I solemnly swear all the data I worked on in my research has been collected in a consented manner except for this picture taken by <a href="https://www.tauhidurrahman.com/"> Tauhidur Rahman </a> .</figcaption>  
-
-If you still have attention and time, two common things recurring in all my projects, let me put MY unfinished research journey in a short-story that reads less technical and sounds more luckier :-  
+  
+  If you still have attention and time, two common things recurring in all my projects, let me put MY unfinished research journey in a short-story that reads less technical and sounds more luckier :-  
 ## Act 1
 (COUGH,COUGH) With a curiousity to push the boundaries of research (no, seriously, thanks to my persistent undergraduate friends who never stopped talking about it) and to see if I can push mine to real-world, shortly after my undergraduate studies I made a leap to U.S. in 2017 for Master's and discover my research interests for PhD.  
 To my surprise (not-so now), I discovered machine learning—a field within computer science previously unknown to me—which focused on addressing real-world problems. This curiousity led me to enroll in related courses and work in research labs focussing on related field and working on real-world problems.  
