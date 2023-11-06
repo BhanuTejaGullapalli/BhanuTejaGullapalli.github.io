@@ -22,12 +22,12 @@ CUT TO...
 Almost a year later, with my pressumed understanding and confidence in machine-learning, I met <a href="https://www.tauhidurrahman.com/"> Tauhidur Rahman </a> for the first time, seeking a long-term research problem and his advice.
 
 ## Act 2
-Of course as one (un-?)expected... this idea was gently put down by him and a more (un-?)realistic and short-term project was advised as a start. Another little luck, this project was also on wearable and substance use addiction. With promising results I submmited the paper and with this semi-promising hope I started my PhD in this direction of research.  
+Of course, as one might (un-?)expect, this idea was gently put down by him, and a more (un-?)realistic and short-term project was advised as a start. Another bit of luck: this project was also on wearables and substance use addiction. With promising results, I submmited the paper, and with a pinching hope I started my PhD in this direction of research.  
 CUT TO...  
-Few months later, working on a larger scale dataset of this project with more uncontrolled parameters, it was easy finding a hypothesis here but it was not so easy to clean the noise in these datasets to solve for that hypothesis.  
-Another little luck, during this disproportionate  Signal-to-noise ratio (SNR) time, I came across upon a <a href="https://umasstox.com/">group of medical researchers</a> (<2 hr drive away!) who collected wearable data from a large scale participants with SNR ahead of that time and willing to colloborate.  
+A few months later, working on a larger-scale dataset of this project with more uncontrolled parameters, it was easy to find a hypothesis, but not so easy to clean the noise in these datasets to solve for that hypothesis.  
+Another stroke of luck, during this disproportionate  Signal-to-noise ratio (SNR) time, I came across upon a <a href="https://umasstox.com/">group of medical researchers</a> ( just a 2-hour drive away!) who collected wearable data from a large scale of participants with an SNR ahead of its time and were happy to colloborate.  
 Of course, once again, as expected with any other PhD project, this started with countless bad hypothesis before finding the right one. Our findings were made public, simultaneously I wanted to make the best use of the snow around me in Amherst by learning to ski.  
-CUT TO...  
+DISSOLVE TO...  
 Few weeks later, another little luck, just when I thought I exhausted all my research ideas on next directions. I met another medical researcher from Utah, <a href="https://faculty.utah.edu/u0889676-Eric_L_Garland/research/index.hml">  Eric L Garland</a>, who read our findings, was engaged in a research problem that perfectly aligned with my own work, leading us to initiate a remote collaboration. 
 This project started, winter ended. I learnt skiing and found a balance betweek ski time and research time. *snap*  
 Just like a ski turn, I transfered to ~~San~~ Sun Diego city.  
