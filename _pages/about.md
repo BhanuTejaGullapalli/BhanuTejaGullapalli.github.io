@@ -23,9 +23,11 @@ Almost a year later, with my pressumed understanding and confidence in machine-l
 Of course as one (un-?)expected... this idea was gently put down by him and a more (un-?)realistic and short-term project was advised as a start. Another little luck, this project was also on wearable and substance use addiction. With promising results I submmited the paper and with this promising hope I started my PhD in this line of research.  
 CUT TO...  
 Few months later, working on a larger scale dataset of this project with more uncontrolled parameters, it was easy finding a hypothesis here but it was not so easy to clean the noise in these datasets to solve for that hypothesis.  
-Another little luck, during this disproportionate time of Signal-to-noise ratio (SNR), I came across upon a <a href="https://umasstox.com/">group of researchers</a> (<2 Hr Drive away) who collected wearable data from a large scale participants with one of best SNR I had seen and willing to colloborate.  
-Of course, once again as expected like any other PhD project this started with countless bad hypothesis before finding the right one. Our findings were made public, simultaneously I was making the best use of the snow around me in Amherst by learning to ski.  
-Anohter little luck, just when this project is completed and I am looking for new research directions in this space. Another 
+Another little luck, during this disproportionate time of Signal-to-noise ratio (SNR), I came across upon a <a href="https://umasstox.com/">group of medical researchers</a> (<2 Hr Drive away) who collected wearable data from a large scale participants with one of best SNR I had seen and willing to colloborate.  
+Of course, once again as expected like any other PhD project, this started with countless bad hypothesis before finding the right one. Our findings were made public, simultaneously I was making the best use of the snow around me in Amherst by learning to ski.  
+Another little luck, just when this project is completed and I am looking for new research directions that follows this work. I met another medical researcher (, <a href="https://faculty.utah.edu/u0889676-Eric_L_Garland/research/index.hml">  Eric L Garland</a> who read our findings and working on research problem that exactly fits my description.  
+<!-- The colloboration is remote  -->
+
 
 
 <!-- This colloboration led us to better understand how opioid drug works after administration and if it can be montiored by wearable data. Our findings were made public, and research was going on like 
