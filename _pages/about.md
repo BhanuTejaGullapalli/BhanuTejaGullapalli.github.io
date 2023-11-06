@@ -33,30 +33,6 @@ This project started, winter ended. I learnt skiing and found a balance betweek 
 Just like a ski turn, I transfered to ~~San~~ Sun Diego city.  
 FADE TO SUN DIEGO... 
 
-  <!-- and I am looking for new research directions that follows this work. I met another medical researcher (, <a href="https://faculty.utah.edu/u0889676-Eric_L_Garland/research/index.hml">  Eric L Garland</a> who read our findings and working on research problem that exactly fits my description.   -->
-<!-- The colloboration is remote  -->
-
-
-
-<!-- This colloboration led us to better understand how opioid drug works after administration and if it can be montiored by wearable data. Our findings were made public, and research was going on like 
-
-
-
-. I was forgetting that sun exists and start appreciating the ice in the east coast by learning to ski, I had to move to a diagonal end and resume my research at ~~San~~ Sun Diego city.  
- -->
-
-
-<!--  after facing the harshness of real world data and running out of Felix Felicis, it was hard finding more wearable based substance use datasets and if found it was easy finding noise in these  
-
-
- HALICO event combined with my experience from my previous HALICO event led that project to be another substance usage addiction based wearable data tagged with ecological markers of addiction space. Working on this project intro
-
-I was fortunate enough to do industrial research internships where I worked with similar genre research minds developing similar genre of biomarkers in a compltely different genre of medical and wearable domains   
-
- working on similar genre of algorithms 
-
- set of biomarkers  -->
-
 ## Act 3
 ~~Welcomed by California tax, disturbed by Sunlight~~ Welcomed by Sunlight, disturbed by California tax, I resumed my research at UCSD where the remote colloboration remained unaffected.  
 The findings from this colloboration became integral part of my PhD proposal and upcoming projects that are currently in-progress. *snap*  
