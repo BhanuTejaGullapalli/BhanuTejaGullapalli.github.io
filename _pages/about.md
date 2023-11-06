@@ -24,10 +24,10 @@ Of course as one (un-?)expected... this idea was gently put down by him and a mo
 CUT TO...  
 Few months later, working on a larger scale dataset of this project with more uncontrolled parameters, it was easy finding a hypothesis here but it was not so easy to clean the noise in these datasets to solve for that hypothesis.  
 Another little luck, during this disproportionate time of Signal-to-noise ratio (SNR), I came across upon a <a href="https://umasstox.com/">group of medical researchers</a> (<2 Hr Drive away) who collected wearable data from a large scale participants with one of best SNR I had seen and willing to colloborate.  
-Of course, once again as expected like any other PhD project, this started with countless bad hypothesis before finding the right one. Our findings were made public, simultaneously I was making the best use of the snow around me in Amherst by learning to ski.  
+Of course, once again as expected like any other PhD project, this started with countless bad hypothesis before finding the right one. Our findings were made public, simultaneously I wanted to make the best use of the snow around me in Amherst by learning to ski.  
 CUT TO...  
-Few weeks later, another little luck, just when I exhausted all my ideas \\
-The winter has ended, I learnt skiing and found a balance betweek ski time and research time. And just like a ski turn, I transfered to ~~San~~ Sun Diego city.  
+Few weeks later, another little luck, just when I thought I exhausted all my research ideas on next directions. I met another medical researcher (, <a href="https://faculty.utah.edu/u0889676-Eric_L_Garland/research/index.hml">  Eric L Garland</a> who read our findings and working on research problem that exactly fits my description.  
+This project started, winter ended, I learnt skiing and found a balance betweek ski time and research time. And just like a ski turn, I transfered to ~~San~~ Sun Diego city.  
 
   <!-- and I am looking for new research directions that follows this work. I met another medical researcher (, <a href="https://faculty.utah.edu/u0889676-Eric_L_Garland/research/index.hml">  Eric L Garland</a> who read our findings and working on research problem that exactly fits my description.   -->
 <!-- The colloboration is remote  -->
