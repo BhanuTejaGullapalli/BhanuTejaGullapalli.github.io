@@ -15,7 +15,7 @@ If you still have attention and time, two common things in all my projects, let 
 ## Act 1
 (COUGH,COUGH) With a curiousity to push the boundaries of research (no, seriously, thanks to my persistent undergraduate friends who never stopped talking about it) and to see if I can push mine to real-world, shortly after my undergraduate studies I made a leap to U.S. in 2017 for Master's and discover my research interests for PhD.  
 To my surprise (not-so now), I discovered machine learning—a field within computer science previously unknown to me—which focused on addressing real-world problems. This revelation led me to enroll in related courses and work in research labs focussing on real-world problems.  
-A little luck (Felix Felicis of this story) was that my first research project in these labs revolved around health and wearable data, using smartwatch data to predict smoking cessation relapse using smartwatch data. This introduced me to the mobile-health data.  
+A little luck (one of many Felix Felicis of this story) was that my first research project in these labs revolved around health and wearable data in substance addiction, using smartwatch data to predict smoking cessation relapse. This project introduced me to the mobile-health data and digital biomarker.  
 CUT TO...  
 Almost a year later, with my pressumed understanding and confidence in machine-learning, I knocked on the the door of Tauhidur Rahman, seeking a long-term research problem and his advising.
 
