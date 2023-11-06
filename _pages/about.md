@@ -31,8 +31,8 @@ DISSOLVE TO...
 A few weeks later, another bit of luck, just when I thought I had exhausted all my research ideas for future directions. I met another medical researcher from Utah, <a href="https://faculty.utah.edu/u0889676-Eric_L_Garland/research/index.hml">  Eric L. Garland</a>, who read our findings, was engaged in a research problem that perfectly aligned with my work, leading us to initiate a remote collaboration.  
 This collaboration began, as winter ended. I learned to ski and found a balance between ski time and research time. *snap*  
 Just like my first failed ski turn that threw me on the wrong end from where I intended, I transferred to ~~San~~ Sun Diego city.  
-FADE TO: SUN DIEGO CITY  
 ## Act 3
+FADE TO: SUN DIEGO CITY  
 ~~Welcomed by California tax, disturbed by Sunlight~~ Welcomed by Sunlight, disturbed by California tax, I resumed my research at the University of California San Diego, where the remote collaboration remained unaffected.  
 The findings from this collaboration became an integral part of my Ph.D. proposal and upcoming projects that are currently in-progress. *snap*  
 Summer ended, the results from this collaboration are being..  
