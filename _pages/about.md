@@ -13,7 +13,7 @@ I utilize multimodal physiological data from wearable devices, along with indivi
   
   &nbsp;
 
-  If you still have attention and time, two common things recurring in all my projects, let me put MY unfinished research journey in a short-story that reads less technical and sounds more luckier :-  
+  If you still have the attention and time-- two common things recurring in all my projects, allow me to share MY unfinished research journey in a short-story that reads less technical and sounds more lucky:-  
 ## Act 1
 (COUGH,COUGH) With a curiousity to push the boundaries of research (no, seriously, thanks to my persistent undergraduate friends who never stopped talking about it) and to see if I can push mine to real-world, shortly after my undergraduate studies I made a leap to U.S. in 2017 for Master's and discover my research interests for PhD.  
 To my surprise (not-so now), I discovered machine learning—a field within computer science previously unknown to me—which focused on addressing real-world problems. This curiousity led me to enroll in related courses and work in research labs focussing on related field and working on real-world problems.  
