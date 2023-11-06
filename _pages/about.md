@@ -27,8 +27,8 @@ Another little luck, during this disproportionate  Signal-to-noise ratio (SNR) t
 Of course, once again as expected like any other PhD project, this started with countless bad hypothesis before finding the right one. Our findings were made public, simultaneously I wanted to make the best use of the snow around me in Amherst by learning to ski.  
 CUT TO...  
 Few weeks later, another little luck, just when I thought I exhausted all my research ideas on next directions. I met another medical researcher from Utah, <a href="https://faculty.utah.edu/u0889676-Eric_L_Garland/research/index.hml">  Eric L Garland</a>, who read our findings, was engaged in a research problem that perfectly aligned with my own work, leading us to initiate a remote collaboration. 
-This project started, winter ended. I learnt skiing and found a balance betweek ski time and research time. *Snap*, and then just like a ski turn, I transfered to ~~San~~ Sun Diego city. 
-FADE TO... 
+This project started, winter ended. I learnt skiing and found a balance betweek ski time and research time. *Snap*, and then just like a ski turn, I transfered to ~~San~~ Sun Diego city.  
+FADE TO SUN DIEGO... 
 
   <!-- and I am looking for new research directions that follows this work. I met another medical researcher (, <a href="https://faculty.utah.edu/u0889676-Eric_L_Garland/research/index.hml">  Eric L Garland</a> who read our findings and working on research problem that exactly fits my description.   -->
 <!-- The colloboration is remote  -->
@@ -56,15 +56,12 @@ I was fortunate enough to do industrial research internships where I worked with
 
 ## Act 3
 ~~Welcomed by California tax, disturbed by Sunlight~~ Welcomed by Sunlight, disturbed by California tax I resumed my research at UCSD and the remote colloboration remained unaffected.  
-The findings from this colloboration became integral part of my PhD proposal. I experienced my first summer which is neither 
-
-
-
-. In each snap, I was fortunate enough to do industrial research internships where I worked with similar genre of research minds developing similar genre of biomarkers in a compltely different genre of medical and wearable domains  
-*In progress...*
+The findings from this colloboration became integral part of my PhD proposal and upcoming projects that are currently in-progress. *snap*  
+Summer ended, the results from this colloboration are being *typing...*  
+In each snap, I was fortunate enough to do industrial research internships where I worked with similar genre of research minds developing similar genre of biomarkers in a compltely different genre of medical and wearable domains.  
 
 # DISCLAIMER
-The story contained many happy little accidents that are not described here for the safety of future researchers.
+*The story contained many happy little accidents that are not described here for the safety of future researchers.*
 
 
 <!--  limited knowledge but  know of accumulating 
