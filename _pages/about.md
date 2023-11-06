@@ -36,11 +36,11 @@ FADE TO: SUN DIEGO CITY
 ~~Welcomed by sunlight and shocked by California tax~~ Shocked by sunlight and welcomed by California tax, I resumed my research at the University of California, San Diego, where the remote collaboration remained unaffected.  
 The findings from this collaboration became an integral part of my Ph.D. proposal and upcoming projects that are currently in-progress. *snap*  
 As Summer ended, the results from this collaboration are being..  
-*typing...*  
-  
-  During each *snap*, I was fortunate enough to do industrial research internships where I worked with similar genre of research minds, developing similar genre of biomarkers, in a compltely different genre of medical and wearable domains.  
+*typing...*. 
   
   &nbsp;
+  
+  During each *snap*, I was fortunate enough to do industrial research internships where I worked with similar genre of research minds, developing similar genre of biomarkers, in a compltely different genre of medical and wearable domains.  
   
   &nbsp;
 
