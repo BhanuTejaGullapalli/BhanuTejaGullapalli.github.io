@@ -16,30 +16,29 @@ I utilize multimodal physiological data from wearable devices, along with indivi
   If you still have the attention and time-- two common things recurring in all my projects, allow me to share MY unfinished research journey in a short-story that reads less technical and sounds more lucky:-  
 ## Act 1
 (COUGH,COUGH) With a pinch of curiosity to push the boundaries of research (no, seriously, thanks to my persistent undergraduate friends who never stopped talking about it) and to see if I could apply it to the real world, shortly after my undergraduate studies I made a leap to U.S. in 2017 to pursue a Master's and to discover my research interests for a Ph.D.  
-To my surprise (not so much now), I discovered machine learning—a field within computer science previously unknown to me—that focused on addressing real-world problems. The same pinch of curiousity led me to enroll in related courses and work in research labs focusing on the field and tackling real-world problems.  
+To my surprise (not so much now), I discovered machine learning—-a field within computer science previously unknown to me—-that focused on addressing real-world problems. The same pinch of curiousity led me to enroll in related courses and work in research labs focusing on the field and tackling real-world problems.  
 A bit of luck (one of many Felix Felicis of this story) was that my first research project in these labs revolved around health and wearable data in substance addiction, introducing me to *mobile-health data* and *digital biomarker*.  
 CUT TO...  
 Almost a year later, with my pressumed understanding and confidence in machine-learning, I met <a href="https://www.tauhidurrahman.com/"> Tauhidur Rahman </a> for the first time, seeking a long-term research problem and his advice.
 
 ## Act 2
-Of course, as one might (un-?)expect, this idea was gently put down by him, and a more (un-?)realistic and short-term project was advised as a start. Another bit of luck: this project was also on wearables and substance use addiction. With promising results, I submitted the paper, and with a pinching hope I started my PhD in this direction of research.  
+Of course, as one might (un-?)expect, this idea was gently put down by him, and a more (un-?)realistic and short-term project was advised as a start. Another bit of luck: this project was also on wearables and substance use addiction. With promising results, I submitted the paper, and with a pinching hope, I started my PhD in this direction of research.  
 CUT TO...  
 A few months later, working on a larger-scale dataset of this project with more uncontrolled parameters, it was easy to find a hypothesis, but not so easy to clean the noise in these datasets to solve for that hypothesis.  
 Another bit of luck, during this disproportionate  Signal-to-noise ratio (SNR) times, I stumbled upon a <a href="https://umasstox.com/">group of medical researchers</a> (just a 2-hour drive away!) who collected wearable data from a large scale of participants with an SNR ahead of its time and were happy to collaborate.  
-Of course, once again, as expected with any other PhD project, this started with countless bad hypothesis before finding the right one. Our findings were released online, and simultaneously, I wanted to make the best use of the snow around me in Amherst by learning to ski.  
+Of course, once again, as expected with any other Ph.D. project, this started with countless bad hypothesis before finding the right one. Our findings were released online, and simultaneously, I wanted to make the best use of the snow around me in Amherst by learning to ski.  
 DISSOLVE TO...  
-A few weeks later, another bit of luck, just when I thought I exhausted all my research ideas on next directions. I met another medical researcher from Utah, <a href="https://faculty.utah.edu/u0889676-Eric_L_Garland/research/index.hml">  Eric L Garland</a>, who read our findings, was engaged in a research problem that perfectly aligned with my own work, leading us to initiate a remote collaboration.  
-This project started, winter ended. I learnt skiing and found a balance between ski time and research time. *snap*  
-Just like my first failed ski turn that landed me on wrong end from the start position, I transferred to ~~San~~ Sun Diego city.  
-FADE TO: CITY SUN DIEGO 
-
+A few weeks later, another bit of luck, just when I thought I had exhausted all my research ideas for future directions. I met another medical researcher from Utah, <a href="https://faculty.utah.edu/u0889676-Eric_L_Garland/research/index.hml">  Eric L. Garland</a>, who read our findings, was engaged in a research problem that perfectly aligned with my work, leading us to initiate a remote collaboration.  
+This collaboration began, as winter ended. I learned to ski and found a balance between ski time and research time. *snap*  
+Just like my first failed ski turn that threw me on the wrong end from where I intended, I transferred to ~~San~~ Sun Diego city.  
+FADE TO: SUN DIEGO CITY  
 ## Act 3
-~~Welcomed by California tax, disturbed by Sunlight~~ Welcomed by Sunlight, disturbed by California tax, I resumed my research at UCSD where the remote collaboration remained unaffected.  
-The findings from this collaboration became integral part of my PhD proposal and upcoming projects that are currently in-progress. *snap*  
+~~Welcomed by California tax, disturbed by Sunlight~~ Welcomed by Sunlight, disturbed by California tax, I resumed my research at the University of California San Diego, where the remote collaboration remained unaffected.  
+The findings from this collaboration became an integral part of my Ph.D. proposal and upcoming projects that are currently in-progress. *snap*  
 Summer ended, the results from this collaboration are being..  
 *typing...*  
   
-  During each *snap*, I was fortunate enough to do industrial research internships where I worked with similar genre of research minds developing similar genre of biomarkers in a compltely different genre of medical and wearable domains.  
+  During each *snap*, I was fortunate enough to do industrial research internships where I worked with similar genre of research minds, developing similar genre of biomarkers, in a compltely different genre of medical and wearable domains.  
 
 # DISCLAIMER
 *The story contained many happy little accidents that were not described here for the safety of future aspiring researchers.*
