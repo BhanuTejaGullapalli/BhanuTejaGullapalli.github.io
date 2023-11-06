@@ -33,9 +33,9 @@ This collaboration began, as winter ended. I learned to ski and found a balance 
 Just like my first failed ski turn that threw me on the wrong end from where I intended, I transferred to ~~San~~ Sun Diego city.  
 ## Act 3
 FADE TO: SUN DIEGO CITY  
-~~Welcomed by California tax, disturbed by Sunlight~~ Welcomed by Sunlight, disturbed by California tax, I resumed my research at the University of California San Diego, where the remote collaboration remained unaffected.  
+~~Welcomed by California tax and disturbed by Sunlight~~ Welcomed by Sunlight and disturbed by California tax, I resumed my research at the University of California San Diego, where the remote collaboration remained unaffected.  
 The findings from this collaboration became an integral part of my Ph.D. proposal and upcoming projects that are currently in-progress. *snap*  
-Summer ended, the results from this collaboration are being..  
+As Summer ended, the results from this collaboration are being..  
 *typing...*  
   
   During each *snap*, I was fortunate enough to do industrial research internships where I worked with similar genre of research minds, developing similar genre of biomarkers, in a compltely different genre of medical and wearable domains.  
