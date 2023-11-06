@@ -15,11 +15,11 @@ I utilize multimodal physiological data from wearable devices, along with indivi
 
   If you still have the attention and time-- two common things recurring in all my projects, allow me to share MY unfinished research journey in a short-story that reads less technical and sounds more lucky:-  
 ## Act 1
-(COUGH,COUGH) With a curiousity to push the boundaries of research (no, seriously, thanks to my persistent undergraduate friends who never stopped talking about it) and to see if I can push mine to real-world, shortly after my undergraduate studies I made a leap to U.S. in 2017 for Master's and discover my research interests for PhD.  
-To my surprise (not-so now), I discovered machine learning—a field within computer science previously unknown to me—which focused on addressing real-world problems. This curiousity led me to enroll in related courses and work in research labs focussing on related field and working on real-world problems.  
-A little luck (one of many Felix Felicis of this story) was that my first research project in these labs revolved around health and wearable data in substance addiction introducing me to *mobile-health data* and *digital biomarker*.  
+(COUGH,COUGH) With a pinch of curiousity to push the boundaries of research (no, seriously, thanks to my persistent undergraduate friends who never stopped talking about it) and to see if I could apply it to the real world, shortly after my undergraduate studies I made a leap to U.S. in 2017 to pursue a Master's and to discover my research interests for a Ph.D.  
+To my surprise (not so much now), I discovered machine learning—a field within computer science previously unknown to me—that focused on addressing real-world problems. The same pinch of curiousity led me to enroll in related courses and work in research labs focusing on the field and tackling real-world problems.  
+A bit of luck (one of many Felix Felicis of this story) was that my first research project in these labs revolved around health and wearable data in substance addiction, introducing me to *mobile-health data* and *digital biomarker*.  
 CUT TO...  
-Almost a year later, with my pressumed understanding and confidence in machine-learning, I met <a href="https://www.tauhidurrahman.com/"> Tauhidur Rahman </a> for the first time, and requested a long-term research problem and his advising.
+Almost a year later, with my pressumed understanding and confidence in machine-learning, I met <a href="https://www.tauhidurrahman.com/"> Tauhidur Rahman </a> for the first time, seeking a long-term research problem and his advice.
 
 ## Act 2
 Of course as one (un-?)expected... this idea was gently put down by him and a more (un-?)realistic and short-term project was advised as a start. Another little luck, this project was also on wearable and substance use addiction. With promising results I submmited the paper and with this semi-promising hope I started my PhD in this direction of research.  
@@ -42,7 +42,7 @@ Summer ended, the results from this colloboration are being
   During each *snap*, I was fortunate enough to do industrial research internships where I worked with similar genre of research minds developing similar genre of biomarkers in a compltely different genre of medical and wearable domains.  
 
 # DISCLAIMER
-*The story contained many happy little accidents that are not described here for the safety of future researchers.*
+*The story contained many happy little accidents that were not described here for the safety of future researchers.*
 
 
 <!--  limited knowledge but  know of accumulating 
