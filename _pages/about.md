@@ -11,23 +11,23 @@ I utilize multimodal physiological data from wearable devices, along with indivi
   <img src="{{ site.url }}/assets/about_work.png" alt="Research"/>
   <figcaption>A quick illustartion of my work. I solemnly swear all the data I worked on in my research has been collected in a consented manner except for this picture taken by <a href="https://www.tauhidurrahman.com/"> Tauhidur Rahman </a> .</figcaption>  
 
-If you still have attention and time, two common things recurring in all my projects, let me put my research journey in a short-story:-  
+If you still have attention and time, two common things recurring in all my projects, let me put my research journey in a short-story that is less technical and more cringier:-  
 ## Act 1
 (COUGH,COUGH) With a curiousity to push the boundaries of research (no, seriously, thanks to my persistent undergraduate friends who never stopped talking about it) and to see if I can push mine to real-world, shortly after my undergraduate studies I made a leap to U.S. in 2017 for Master's and discover my research interests for PhD.  
 To my surprise (not-so now), I discovered machine learning—a field within computer science previously unknown to me—which focused on addressing real-world problems. This curiousity led me to enroll in related courses and work in research labs focussing on related field and working on real-world problems.  
-A little luck (one of many Felix Felicis of this story) was that my first research project in these labs revolved around health and wearable data in substance addiction introducing me to the mobile-health data and digital biomarker.  
+A little luck (one of many Felix Felicis of this story) was that my first research project in these labs revolved around health and wearable data in substance addiction introducing me to the notions of *mobile-health data* and *digital biomarker*.  
 CUT TO...  
 Almost a year later, with my pressumed understanding and confidence in machine-learning, I met Tauhidur Rahman for the first time, and requested a long-term research problem and his advising.
 
 ## Act 2
-Of course as one (un-?)expected... this idea was gently put down by him and a more (un-?)realistic and short-term project was advised as a start. Another Felix Felicis, this project was also on wearable and substance use addiction. With promising results I submmited the paper and with this promising hope I started my PhD in this line of research.  
-CUT TO..
-Few months later, continuing on larger scale dataset of this project with more uncontrolled parameters, it was easy finding a hypothesis here but it was not easy to clean the noise in these datasets to solve for that hypothesis.  
-Another little luck,
+Of course as one (un-?)expected... this idea was gently put down by him and a more (un-?)realistic and short-term project was advised as a start. Another little luck, this project was also on wearable and substance use addiction. With promising results I submmited the paper and with this promising hope I started my PhD in this line of research.  
+CUT TO..  
+Few months later, working on a larger scale dataset of this project with more uncontrolled parameters, it was easy finding a hypothesis here but it was not easy to clean the noise in these datasets to solve for that hypothesis.  
+Another little luck, during this time 
 
 
 
- after facing the harshness of real world data and running out of Felix Felicis, it was hard finding more wearable based substance use datasets and if found it was easy finding noise in these  
+<!--  after facing the harshness of real world data and running out of Felix Felicis, it was hard finding more wearable based substance use datasets and if found it was easy finding noise in these  
 
 
  HALICO event combined with my experience from my previous HALICO event led that project to be another substance usage addiction based wearable data tagged with ecological markers of addiction space. Working on this project intro
@@ -36,11 +36,10 @@ I was fortunate enough to do industrial research internships where I worked with
 
  working on similar genre of algorithms 
 
- set of biomarkers 
+ set of biomarkers  -->
 
 ## Act 3
-
-struggling writer in progress...
+*In progress...*
 
 
 <!--  limited knowledge but  know of accumulating 
