@@ -39,9 +39,12 @@ As Summer ended, the results from this collaboration are being..
 *typing...*  
   
   During each *snap*, I was fortunate enough to do industrial research internships where I worked with similar genre of research minds, developing similar genre of biomarkers, in a compltely different genre of medical and wearable domains.  
+  
+  &nbsp;
+  
+  &nbsp;
 
-# DISCLAIMER
-*The story contained many ~~failures~~ happy little accidents that were not described here for the safety of future aspiring researchers.*
+  *P.S. The story contained many ~~failures~~ happy little accidents that were not described here for the safety of future aspiring researchers.*
 
 
 <!--  limited knowledge but  know of accumulating 
