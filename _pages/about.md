@@ -17,7 +17,7 @@ If you still have attention and time, two common things recurring in all my proj
 To my surprise (not-so now), I discovered machine learning—a field within computer science previously unknown to me—which focused on addressing real-world problems. This curiousity led me to enroll in related courses and work in research labs focussing on related field and working on real-world problems.  
 A little luck (one of many Felix Felicis of this story) was that my first research project in these labs revolved around health and wearable data in substance addiction introducing me to the terms of *mobile-health data* and *digital biomarker*.  
 CUT TO...  
-Almost a year later, with my pressumed understanding and confidence in machine-learning, I met Tauhidur Rahman for the first time, and requested a long-term research problem and his advising.
+Almost a year later, with my pressumed understanding and confidence in machine-learning, I met <a href="https://www.tauhidurrahman.com/"> Tauhidur Rahman </a> for the first time, and requested a long-term research problem and his advising.
 
 ## Act 2
 Of course as one (un-?)expected... this idea was gently put down by him and a more (un-?)realistic and short-term project was advised as a start. Another little luck, this project was also on wearable and substance use addiction. With promising results I submmited the paper and with this promising hope I started my PhD in this line of research.  
@@ -25,7 +25,10 @@ CUT TO...
 Few months later, working on a larger scale dataset of this project with more uncontrolled parameters, it was easy finding a hypothesis here but it was not so easy to clean the noise in these datasets to solve for that hypothesis.  
 Another little luck, during this disproportionate time of Signal-to-noise ratio (SNR), I came across upon a <a href="https://umasstox.com/">group of medical researchers</a> (<2 Hr Drive away) who collected wearable data from a large scale participants with one of best SNR I had seen and willing to colloborate.  
 Of course, once again as expected like any other PhD project, this started with countless bad hypothesis before finding the right one. Our findings were made public, simultaneously I was making the best use of the snow around me in Amherst by learning to ski.  
-Another little luck, just when this project is completed and I am looking for new research directions that follows this work. I met another medical researcher (, <a href="https://faculty.utah.edu/u0889676-Eric_L_Garland/research/index.hml">  Eric L Garland</a> who read our findings and working on research problem that exactly fits my description.  
+CUT TO... 
+Few weeks later, another little luck, just when I exhausted all my ideas 
+
+  <!-- and I am looking for new research directions that follows this work. I met another medical researcher (, <a href="https://faculty.utah.edu/u0889676-Eric_L_Garland/research/index.hml">  Eric L Garland</a> who read our findings and working on research problem that exactly fits my description.   -->
 <!-- The colloboration is remote  -->
 
 
