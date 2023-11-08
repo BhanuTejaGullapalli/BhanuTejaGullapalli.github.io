@@ -16,7 +16,7 @@ I utilize multimodal physiological data from wearable devices, along with indivi
   If you still have the attention and time-- two common things recurring in all my projects, allow me to share MY unfinished research journey in a short-story that reads a bit less technical and sounds a bit more lucky:-  
 ## Act 1
 (COUGH,COUGH) With a pinch of curiosity to push the boundaries of research (no, seriously, thanks to my persistent undergraduate friends who never stopped talking about it) and to see if I could apply it to the real world, shortly after my undergraduate studies I made a leap to U.S. in 2017 to pursue a Master's and to discover my research interests for a Ph.D.  
-To my surprise (not so much now), I discovered machine learning—-a field within computer science previously unknown to me—-that focused on addressing real-world problems. The same pinch of curiousity led me to enroll in related courses and work in research labs focusing on the field and tackling real-world problems.  
+To my surprise (not so much now), I discovered machine learning—-a field within computer science previously unknown to me—-that focused on addressing real-world problems. The same curiousity led me to enroll in related courses and work in research labs focusing on the field and tackling real-world problems.  
 A bit of luck (one of many Felix Felicis of this story) was that my first research project in these labs revolved around health and wearable data in substance addiction, introducing me to *mobile-health data* and *digital biomarker*.  
 CUT TO...  
 Almost a year later, with my pressumed understanding and confidence in machine-learning, I met <a href="https://www.tauhidurrahman.com/"> Tauhidur Rahman </a> for the first time, seeking a long-term research problem and his advice.
@@ -41,9 +41,6 @@ As Summer ended, the results from this collaboration are being..
   &nbsp;
   
   During each *snap*, I was fortunate enough to do industrial research internships where I worked with similar genre of research minds, developing similar genre of biomarkers, in a compltely different genre of medical and wearable domains.  
-  
-  &nbsp;
-
   *P.S. The story contained many ~~failures~~ happy little accidents that were not described here for the safety of future aspiring researchers.*
 
 
