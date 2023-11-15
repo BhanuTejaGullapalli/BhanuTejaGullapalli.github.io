@@ -5,7 +5,7 @@ permalink: /about/
 order: 2
 ---
 
-As your curiosity has led you here (and I'm sure to many other places), I will take the most attentive part of your time to present my research first:  
+As your curiosity has led you here (and I'm sure to many other places), I will take the most attentive part of your time to present my research first and a short story later:  
 I utilize multimodal physiological data from wearable devices, along with individual's demographic characteristics (age,comorbidities,etc.), to develop *digital biomarkers in the space of substance use addiction*. Primarily, I work with mobile-sensor data collected in both hospital settings and the real world to predict various aspects of the addiction cycle for different drugs.
 
   <img src="{{ site.url }}/assets/about_work.png" alt="Research"/>
