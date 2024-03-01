@@ -10,7 +10,8 @@ I am a Ph.D. student in the Halıcıoğlu Data Science Institute at the Universi
 
 A bit about my research journey in no chronological order: In the past, I have worked as a research intern at [Optum AI Labs](https://www.optumlabs.com/work/artificial-intelligence.html), [Samsung Digital Health Lab](https://www.sra.samsung.com/digital-health/). I joined the University of Massachusetts Amherst as a Master's student in 2017 and moved to MS/Ph.D. track in 2018. After spending four wonderful years there, I transferred to the University of California San Diego. I did my undergrad at the Indian Institute of Technology -Guwahati (IITG), where I completed my thesis under the supervision of [Samit Bhattacharya](http://www.iitg.ac.in/samit/) and [Benny George](https://www.iitg.ac.in/ben/). [More about me..]({{ site.url }}/about)
 
-<span style="background-color: #FFFF00;">I'm on the job market!</span> I will graduate from my PhD at Halıcıoğlu Data Science  in 2024. I'm open to research-oriented industry positions. If my work interests you, please get in touch! If you are interested in knowing more about my research, check out the [Research]({{ site.url }}/research) tab. 
+<!-- <span style="background-color: #FFFF00;">I'm on the job market!</span> -->
+I will graduate from my PhD at Halıcıoğlu Data Science in 2024. If my work interests you, please get in touch! If you are interested in knowing more about my research, check out the [Research]({{ site.url }}/research) tab. 
 
 [CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=Jfoac8IAAAAJ&hl=en)
 Email ID: [bgullapalli@ucsd.edu](mailto:bgullapalli@ucsd.edu) 
@@ -22,6 +23,8 @@ Email ID: [bgullapalli@ucsd.edu](mailto:bgullapalli@ucsd.edu)
 <table>
 <col width="100px">
 <col width="650px">
+
+  <tr><td><b>March 2024:</b></td><td>Accepted to the Future Leaders Summit. I will attend  Michigan Institute for Data Science (MIDAS) to present my research and engage in research discussions with peers and research leaders.</td></tr>
   <tr><td><b>Oct 2023:</b></td><td>Our work <i> "Pharmacokinetics-Informed Neural Network for Predicting Opioid Administration Moments with Wearable Sensors"</i> has been accepted in <a href="https://aaai.org/aaai-conference/iaai-24-call-for-participation/"> Innovative Applications of Artificial Intelligence (IAAI-24). </a> </td>
       <tr><td><b>July 2023:</b></td><td>Successfully passed my PhD Proposal!!</td></tr>  
   <tr><td><b>June 2023:</b></td><td>Started my summer internship at <a href="https://www.optumlabs.com/"> Optum AI Labs  </a>, where I will be working with <a href="https://mashfiqui-rabbi.github.io/">Mashfiqui Rabbi </a></td></tr>
