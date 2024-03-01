@@ -24,7 +24,7 @@ Email ID: [bgullapalli@ucsd.edu](mailto:bgullapalli@ucsd.edu)
 <col width="100px">
 <col width="650px">
 
-  <tr><td><b>March 2024:</b></td><td>Accepted to the Future Leaders Summit. I will attend  Michigan Institute for Data Science (MIDAS) to present my research and engage in research discussions with peers and research leaders.</td></tr>
+  <tr><td><b>Mar 2024:</b></td><td>Accepted to the Future Leaders Summit. I will attend  Michigan Institute for Data Science (MIDAS) to present my research and engage in research discussions with peers and research leaders.</td></tr>
   <tr><td><b>Oct 2023:</b></td><td>Our work <i> "Pharmacokinetics-Informed Neural Network for Predicting Opioid Administration Moments with Wearable Sensors"</i> has been accepted in <a href="https://aaai.org/aaai-conference/iaai-24-call-for-participation/"> Innovative Applications of Artificial Intelligence (IAAI-24). </a> </td>
       <tr><td><b>July 2023:</b></td><td>Successfully passed my PhD Proposal!!</td></tr>  
   <tr><td><b>June 2023:</b></td><td>Started my summer internship at <a href="https://www.optumlabs.com/"> Optum AI Labs  </a>, where I will be working with <a href="https://mashfiqui-rabbi.github.io/">Mashfiqui Rabbi </a></td></tr>
