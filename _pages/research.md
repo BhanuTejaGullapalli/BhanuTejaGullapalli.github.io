@@ -11,6 +11,13 @@ I am broadly interested in Wearable Health Sensing and Machine Learning. My prim
 
 ### Papers
 
+* [Pharmacokinetics-Informed Neural Network for Predicting Opioid Administration Moments with Wearable Sensors](https://doi.org/10.1609/aaai.v38i21.30326)  
+ <i>Bhanu Teja Gullapalli</i>\*, Stephanie Carreiro,  Brittany P Chapman, Eric L Garland,  Tauhidur Rahman 
+ *Proceedings of the AAAI Conference on Artificial Intelligence, IAAI'24.*  
+ [PDF]({{ site.url }}/assets/PK_Opioid_detection.pdf) // [Poster] ({{ site.url }}/assets/IAAI__Poster.pdf) //[Video](https://youtu.be/WLx-SuGs5pI?si=JVIK0bKJH-ABDgxR) // [Tweet](https://x.com/BhanuGullapalli/status/1761116135783797045)
+
+
+
 * [Zoom-Based Mindfulness-Oriented Recovery Enhancement Plus Just-in-Time Mindfulness Practice Triggered by Wearable Sensors for Opioid Craving and Chronic Pain](https://link.springer.com/article/10.1007/s12671-023-02137-0)  
 Eric L. Garland, <i>Bhanu Teja Gullapalli</i>\*, Kort C. Prince, Adam W. Hanley, Mathias Sanyer, Mark Tuomenoksa, Tauhidur Rahman  
 *Minfulness Journal. Apr 2023*  
