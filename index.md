@@ -5,13 +5,13 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/profile_blog.jpg">
 
-I am a Ph.D. student in the Halıcıoğlu Data Science Institute at the University of California San Diego advised by   [Tauhidur Rahman](http://www.tauhidurrahman.com/). My research lies at the intersection of wearable health sensing and machine learning (with occasional hops onto underlying biology)
+I am a Postdoctoral Fellow in the John A. Paulson School of Engineering and Applied Sciences at Harvard University with [Susan Murphy](https://people.seas.harvard.edu/~samurphy/). My research lies at the intersection of wearable health sensing and machine learning (with occasional hops onto underlying biology)
 
 
-A bit about my research journey in no chronological order: In the past, I have worked as a research intern at [Optum AI Labs](https://www.optumlabs.com/work/artificial-intelligence.html), [Samsung Digital Health Lab](https://www.sra.samsung.com/digital-health/). I joined the University of Massachusetts Amherst as a Master's student in 2017 and moved to MS/Ph.D. track in 2018. After spending four wonderful years there, I transferred to the University of California San Diego. I did my undergrad at the Indian Institute of Technology -Guwahati (IITG), where I completed my thesis under the supervision of [Samit Bhattacharya](http://www.iitg.ac.in/samit/) and [Benny George](https://www.iitg.ac.in/ben/). [More about me..]({{ site.url }}/about)
+A bit about my research journey in no chronological order: In the past, I have worked as a research intern at [Optum AI Labs](https://www.optumlabs.com/work/artificial-intelligence.html), [Samsung Digital Health Lab](https://www.sra.samsung.com/digital-health/). I joined the University of Massachusetts Amherst as a Master's student in 2017 and moved to MS/Ph.D. track in 2018. After spending four wonderful years there,  I transferred to the University of California San Diego, where I obtained my doctorate in Data Science at the Halıcıoğlu Data Science Institute in 2024. I did my undergrad at the Indian Institute of Technology -Guwahati (IITG), where I completed my thesis under the supervision of [Samit Bhattacharya](http://www.iitg.ac.in/samit/) and [Benny George](https://www.iitg.ac.in/ben/). [More about me..]({{ site.url }}/about)
 
 <!-- <span style="background-color: #FFFF00;">I'm on the job market!</span> -->
-I will graduate from my PhD at Halıcıoğlu Data Science in 2024. If my work interests you, please get in touch! If you are interested in knowing more about my research, check out the [Research]({{ site.url }}/research) tab. 
+<!-- I will graduate from my PhD at Halıcıoğlu Data Science in 2024. If my work interests you, please get in touch! If you are interested in knowing more about my research, check out the [Research]({{ site.url }}/research) tab.  -->
 
 [CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=Jfoac8IAAAAJ&hl=en)
 Email ID: [bgullapalli@ucsd.edu](mailto:bgullapalli@ucsd.edu) 
@@ -23,6 +23,10 @@ Email ID: [bgullapalli@ucsd.edu](mailto:bgullapalli@ucsd.edu)
 <table>
 <col width="100px">
 <col width="650px">
+
+  <tr><td><b>Jul 2024:</b> </td><td> Started my Postdocotral research at Harvard University </i> </td></tr>
+
+  <tr><td><b>Jun 2024:</b> </td><td> I defended my PhD thesis on harnessing digital biomarkers for substance use and addiction! </i> </td></tr>
 
   <tr><td><b>Apr 2024:</b> </td><td> Paper accepted to <a href="https://embc.embs.org/2024/"> EMBC </a> <i> "A Framework for Extracting Heart Rate Variability Features from Earbud-PPG for Stress Detection" </i> </td></tr>
 
