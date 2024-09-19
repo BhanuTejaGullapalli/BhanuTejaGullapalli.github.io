@@ -14,7 +14,7 @@ A bit about my research journey in no chronological order: In the past, I have w
 <!-- I will graduate from my PhD at Halıcıoğlu Data Science in 2024. If my work interests you, please get in touch! If you are interested in knowing more about my research, check out the [Research]({{ site.url }}/research) tab.  -->
 
 [CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=Jfoac8IAAAAJ&hl=en)
-Email ID: [bgullapalli@ucsd.edu](mailto:bgullapalli@ucsd.edu) 
+Email ID: [bgullapalli@g.harvard.edu](mailto:bgullapalli@g.harvard.edu) 
 
 
 #### Updates
