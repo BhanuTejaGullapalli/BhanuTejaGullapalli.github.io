@@ -5,11 +5,29 @@ permalink: /research/
 order: 1
 ---
 
-I am broadly interested in Wearable Health Sensing and Machine Learning. My primary focus has been developing machine learning algorithms that understand the time-series physiological signals collected from wearable devices to predict and explain various behavioral variables associated with substance usage and addiction.
+My research sits at the intersection of wearable health sensing, machine learning, and online decision making. I build AI/ML systems that turn noisy, irregular physiological sensor streams into clinically meaningful signals and, increasingly, into personalized mobile health interventions.
+
+During my Ph.D., I focused on a difficult sensing problem in substance use and addiction: clinically important events are sparse, self-reports can be noisy, sensor streams are missing or irregular, and physiological responses vary substantially across people. My work addressed these challenges by combining deep time-series models with domain structure from pharmacokinetics, digital biomarkers, and clinical context. This led to models for detecting opioid use, understanding craving and euphoria, and explaining how individual and treatment characteristics affect wearable sensor-based biomarkers.
+
+In my postdoctoral work at Harvard with [Susan Murphy](https://people.seas.harvard.edu/~samurphy/), I study how AI systems can support just-in-time adaptive interventions in real clinical and mobile-health settings. I focus on a central deployment problem: many intervention systems rely on fixed schedules or simple rules, even though patients differ in their routines, risk states, availability, and response to support. A useful system needs to decide when to collect information, when to intervene, and when to avoid adding burden, all while learning from limited and delayed feedback.
+
+I address this by developing uncertainty-aware and adaptive decision-making methods for mobile health. I work with online learning, reinforcement learning, Bayesian modeling, survival modeling, and reproducible workflows for evaluating online AI systems. The goal is to build intervention systems that can personalize over time, reason about uncertainty, respect practical constraints, and be evaluated carefully before they influence care decisions.
+
+Overall, I am most interested in building AI systems that are technically rigorous, clinically useful, and realistic to deploy: models that work with messy sensor streams, expose uncertainty, adapt to individuals over time, and connect prediction to action in healthcare.
 
 [Google Scholar](https://scholar.google.com/citations?user=Jfoac8IAAAAJ&hl=en)
 
 ### Papers
+
+* [Reproducible workflow for online artificial intelligence in digital health](https://doi.org/10.1098/rsta.2024.0607)  
+Susobhan Ghosh , <i>Bhanu Teja Gullapalli</i>\*,  Daiqi Gao,  Asim H Gazi, Anna L Trella, Ziping Xu, Kelly Zhang,   Susan A Murphy 
+ *Philosophical Transactions of the Royal Society A. May 2026*  
+ [PDF]({{ site.url }}/assets/rsta_2024_0607.pdf) 
+
+* [SigmaScheduling: Uncertainty-Informed Scheduling of Decision Points for Intelligent Mobile Health Interventions](https://pmc.ncbi.nlm.nih.gov/articles/PMC13004608/)  
+ Asim H Gazi , <i>Bhanu Teja Gullapalli</i>\*,  Daiqi Gao,   Benjamin M Marlin ,   Vivek Shetty ,  Susan A Murphy 
+ *IEEE BSN Conference Proceedings. Jan 2026*  
+ [PDF]({{ site.url }}/assets/nihms-2113533.pdf) 
 
 * [Pharmacokinetics-Informed Neural Network for Predicting Opioid Administration Moments with Wearable Sensors](https://doi.org/10.1609/aaai.v38i21.30326)  
  <i>Bhanu Teja Gullapalli</i>\*, Stephanie Carreiro,  Brittany P Chapman, Eric L Garland,  Tauhidur Rahman 
@@ -44,7 +62,4 @@ Gustavo A Angarita, Deepak Kumar Ganesan, Tauhidur Rahman
  <i>Bhanu Teja Gullapalli</i>\*, Annamalai Natarajan, Gustavo A Angarita, Robert T Malison (late), Deepak Kumar Ganesan, Tauhidur Rahman  
 *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2019*  
 [PDF]({{ site.url }}/assets/Ubicomp19-Craving.pdf)
-
-
-
 
