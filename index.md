@@ -25,6 +25,17 @@ Email ID: [bgullapalli@g.harvard.edu](mailto:bgullapalli@g.harvard.edu)
 <col width="650px">
 
 <tr>
+  <td><b>May 2026:</b></td>
+  <td>
+    Paper co-authored with
+    <a href="https://susobhan.me/">Susobhan Ghosh</a>
+    accepted to the
+    <a href="https://doi.org/10.1098/rsta.2024.0607">Philosophical Transactions of the Royal Society A</a>:
+    <i>"Reproducible workflow for online AI in digital health"</i>.
+  </td>
+</tr>
+
+<tr>
   <td><b>Jan 2026:</b></td>
   <td>
     Paper co-authored with
@@ -35,7 +46,7 @@ Email ID: [bgullapalli@g.harvard.edu](mailto:bgullapalli@g.harvard.edu)
   </td>
 </tr>
 
-  <tr><td><b>Nov 2025:</b> </td><td> Served as a panel member representing the RL component for the “Using Just-In-Time Adaptive Interventions to Better Meet Patients’ Needs and Increase Access to Care” panel at ABCT. </td></tr>
+  <tr><td><b>Nov 2025:</b> </td><td> Served as a panel member for the “Using Just-In-Time Adaptive Interventions to Better Meet Patients’ Needs and Increase Access to Care” panel at <a href="https://www.abct.org/2025-convention/">ABCT</a>. </td></tr>
 
   <tr><td><b>Oct 2025:</b> </td><td> Attended mDOT Think Thank at University of Michigan Ann arbour foccused on next wave of innovation at the intersection of Generative AI, wearables, and JITAIs. </td></tr>
 
