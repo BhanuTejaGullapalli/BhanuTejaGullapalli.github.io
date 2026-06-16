@@ -27,22 +27,22 @@ Email ID: [bgullapalli@g.harvard.edu](mailto:bgullapalli@g.harvard.edu)
 <tr>
   <td><b>May 2026:</b></td>
   <td>
-    Paper co-authored with
-    <a href="https://susobhan.me/">Susobhan Ghosh</a>
-    accepted to the
+    Paper accepted to the
     <a href="https://doi.org/10.1098/rsta.2024.0607">Philosophical Transactions of the Royal Society A</a>:
-    <i>"Reproducible workflow for online AI in digital health"</i>.
+    <i>"Reproducible workflow for online AI in digital health"</i>,
+    co-authored with
+    <a href="https://susobhan.me/">Susobhan Ghosh</a>.
   </td>
 </tr>
 
 <tr>
   <td><b>Jan 2026:</b></td>
   <td>
-    Paper co-authored with
-    <a href="https://asimgazi.github.io/">Asim Gazi</a>
-    accepted to the
+    Paper accepted to the
     <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13004608/">IEEE BSN Conference Proceedings</a>:
-    <i>"SigmaScheduling: Uncertainty-Informed Scheduling of Decision Points for Intelligent Mobile Health Interventions"</i>.
+    <i>"SigmaScheduling: Uncertainty-Informed Scheduling of Decision Points for Intelligent Mobile Health Interventions"</i>,
+    co-authored with
+    <a href="https://asimgazi.github.io/">Asim Gazi</a>.
   </td>
 </tr>
 
