@@ -24,6 +24,21 @@ Email ID: [bgullapalli@g.harvard.edu](mailto:bgullapalli@g.harvard.edu)
 <col width="100px">
 <col width="650px">
 
+<tr>
+  <td><b>Jan 2026:</b></td>
+  <td>
+    Paper co-authored with
+    <a href="https://asimgazi.github.io/">Asim Gazi</a>
+    accepted to the
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13004608/">IEEE BSN Conference Proceedings</a>:
+    <i>"SigmaScheduling: Uncertainty-Informed Scheduling of Decision Points for Intelligent Mobile Health Interventions"</i>.
+  </td>
+</tr>
+
+  <tr><td><b>Nov 2025:</b> </td><td> Served as a panel member representing the RL component for the “Using Just-In-Time Adaptive Interventions to Better Meet Patients’ Needs and Increase Access to Care” panel at ABCT. </td></tr>
+
+  <tr><td><b>Oct 2025:</b> </td><td> Attended mDOT Think Thank at University of Michigan Ann arbour foccused on next wave of innovation at the intersection of Generative AI, wearables, and JITAIs. </td></tr>
+
   <tr><td><b>Jul 2024:</b> </td><td> Started my Postdoctoral research at Harvard University  </td></tr>
 
   <tr><td><b>Jun 2024:</b> </td><td> I defended my PhD thesis on harnessing digital biomarkers for substance use and addiction!  </td></tr>
@@ -69,4 +84,3 @@ Email ID: [bgullapalli@g.harvard.edu](mailto:bgullapalli@g.harvard.edu)
 <tr><td><b>Sept 2018:</b></td><td>Started my PhD in Computer Science at UMass Amherst.</td></tr>
 
 <tr><td><b>Feb 2017:</b></td><td>Started my MS in Computer Science at UMass Amherst.</td></tr>
-
